@@ -19,4 +19,13 @@
     e.clipboardData.setData('text/plain', sel + '\n\n출처: ' + SRC + ' (' + location.href + ')');
     e.preventDefault();
   });
+  /* 읽기 진행 막대 */
+  var bar = document.getElementById('progress');
+  if(bar){
+    var upd = function(){
+      var h = document.documentElement, max = h.scrollHeight - h.clientHeight;
+      bar.style.width = (max > 0 ? (h.scrollTop / max) * 100 : 0) + '%';
+    };
+    window.addEventListener('scroll', upd, {passive:true}); upd();
+  }
 })();

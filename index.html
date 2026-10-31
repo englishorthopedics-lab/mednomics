@@ -6,136 +6,78 @@
 <title>Mednomics · 두 개의 차트</title>
 <meta name="description" content="두 개의 차트 — 의사가 읽는 헬스케어 산업과 돈. 현직 외과계 전문의 닥터조단이 진료실과 수술방에서 본 병원, 제약, 의료기기 산업을 해설합니다.">
 <meta property="og:title" content="Mednomics · 두 개의 차트">
-<meta property="og:description" content="의사가 읽는 헬스케어 산업과 돈">
+<meta property="og:description" content="두 개의 차트 — 의사가 읽는 헬스케어 산업과 돈. 현직 외과계 전문의 닥터조단이 진료실과 수술방에서 본 병원, 제약, 의료기기 산업을 해설합니다.">
 <meta property="og:url" content="https://mednomics.co.kr/">
 <meta property="og:type" content="website">
+<meta name="theme-color" content="#07090c">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Noto+Sans+KR:wght@400;500;600&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="mast">
-  <div class="wrap">
-    <a class="brand" href="./" aria-label="Mednomics 홈">
-      <svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="12" fill="#14213d"/><path d="M8 38h12l4-14 6 26 5-18 4 6h6l5-10 6 4" fill="none" stroke="#f4efe6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="56" cy="32" r="3.5" fill="#d1495b"/></svg>
-      <b>MEDNOMICS</b>
-    </a>
-    <nav class="nav">
-      <a href="series/">두 개의 차트</a>
-      <a href="about.html">필자 소개</a>
-      <a class="hide-s" href="#subscribe">구독</a>
-    </nav>
+<header class="bar"><div class="in">
+  <a class="logo" href="./" aria-label="Mednomics 홈"><i></i><b>MEDNOMICS</b></a>
+  <nav class="menu">
+    <a href="series/">두 개의 차트</a>
+    <a href="about.html">필자 소개</a>
+    <a class="hs" href="#subscribe">구독</a>
+  </nav>
+</div></header>
+
+<section class="hero">
+  <div class="in">
+    <p class="log">
+      <span><em class="r">07:00</em>회진. 환자 차트를 읽는다.</span>
+      <span><em class="g">15:30</em>장 마감. 주가 차트를 읽는다.</span>
+      <span><em>——</em>하루에 두 개의 차트를 읽는 사람의 기록.</span>
+    </p>
+    <h1>두 개의 차트</h1>
+    <p class="sub">의사가 읽는 헬스케어 산업과 돈</p>
   </div>
-</header>
-
-<main>
-  <section class="hero">
-    <div class="wrap">
-      <p class="eyebrow">Mednomics 연재</p>
-      <h1>두 개의 차트</h1>
-      <p class="sub">의사가 읽는 헬스케어 산업과 돈</p>
-      <p class="lead">의사는 매일 환자 차트를 읽고, 시장은 매일 주가 차트를 읽습니다. 그런데 두 차트를 함께 읽는 사람은 드뭅니다. 진료실과 수술방에서 본 장면으로 병원, 제약, 의료기기 산업의 돈이 어디서 와서 어디로 흐르는지 풀어 씁니다.</p>
-
-      <figure class="chart" aria-label="맥박 파형이 주가 그래프로 이어지는 그림">
-        <svg viewBox="0 0 1000 200" role="img" aria-hidden="true">
-          <defs>
-            <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-              <stop offset="0" stop-color="#d1495b"/>
-              <stop offset=".36" stop-color="#d1495b"/>
-              <stop offset=".5" stop-color="#14213d"/>
-              <stop offset=".66" stop-color="#2a7f62"/>
-              <stop offset="1" stop-color="#2a7f62"/>
-            </linearGradient>
-          </defs>
-          <g stroke="#2a7f62" stroke-opacity=".28" stroke-width="2">
-            <line x1="590" y1="66" x2="590" y2="100"/><rect x="584" y="72" width="12" height="20" fill="#2a7f62" fill-opacity=".18"/>
-            <line x1="670" y1="46" x2="670" y2="84"/><rect x="664" y="52" width="12" height="22" fill="#2a7f62" fill-opacity=".18"/>
-            <line x1="750" y1="30" x2="750" y2="66"/><rect x="744" y="38" width="12" height="18" fill="#2a7f62" fill-opacity=".18"/>
-            <line x1="830" y1="20" x2="830" y2="54"/><rect x="824" y="26" width="12" height="18" fill="#2a7f62" fill-opacity=".18"/>
-            <line x1="910" y1="10" x2="910" y2="40"/><rect x="904" y="14" width="12" height="16" fill="#2a7f62" fill-opacity=".18"/>
-          </g>
-          <line x1="500" y1="8" x2="500" y2="192" stroke="#14213d" stroke-opacity=".18" stroke-dasharray="4 6"/>
-          <path class="draw" fill="none" stroke="url(#g)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"
-            d="M0 130 H110 l10 -9 l10 9 H170 l8 14 l12 -96 l12 116 l9 -34 H262 l14 -15 l14 15 H350 l10 -9 l10 9 H400 C 440 130, 460 122, 490 116 L530 124 L560 100 L600 108 L630 84 L670 92 L700 66 L740 74 L770 50 L810 60 L840 38 L880 44 L910 24 L950 30 L1000 12"/>
-          <circle cx="1000" cy="12" r="5" fill="#2a7f62"/>
-        </svg>
-        <figcaption class="legend"><span><i style="background:#d1495b"></i>환자 차트 · 맥박</span><span><i style="background:#2a7f62"></i>주가 차트 · 가격</span></figcaption>
-      </figure>
-
-      <div class="cta">
-        <a class="btn solid" href="series/prologue.html">연재를 시작하며 읽기</a>
-        <a class="btn" href="series/">시즌 1 목록 보기</a>
-      </div>
-    </div>
-  </section>
-
-  <section class="block">
-    <div class="wrap">
-      <p class="kicker">What we read</p>
-      <h2>이 연재가 읽는 것</h2>
-      <p class="intro">기사와 공시는 누구나 읽습니다. 여기서는 그 숫자가 진료 현장에서 실제로 어떤 모습인지를 함께 씁니다.</p>
-      <div class="cols">
-        <div class="card"><span class="tag">HOSPITAL</span><h3>병원의 돈</h3><p>병원이 무엇을 사고, 누구에게 사고, 그 사이에서 누가 남기는지. 간납사, 재단, 비급여 시장의 구조를 봅니다.</p></div>
-        <div class="card"><span class="tag">PHARMA · DEVICE</span><h3>약과 기구의 시장</h3><p>신약과 의료기기가 처방과 수술 현장에 실제로 자리 잡기까지의 시간과 장벽을 봅니다.</p></div>
-        <div class="card"><span class="tag">POLICY · CAPITAL</span><h3>정책과 자본</h3><p>규제, 수가, 사모펀드 인수, 기업공개처럼 헬스케어 산업의 판을 바꾸는 힘을 봅니다.</p></div>
-      </div>
-    </div>
-  </section>
-
-  <section class="block">
-    <div class="wrap">
-      <p class="kicker">Season 1</p>
-      <h2>시즌 1 미리 보기</h2>
-      <p class="intro">첫 시즌은 병원 구매 구조에서 시작해 제약·바이오 시장으로 넓혀 갑니다.</p>
-      <ol class="eps">
-        <li><span class="no">PROLOGUE</span><span class="t"><a href="series/prologue.html">연재를 시작하며: 왜 두 개의 차트인가</a></span><span class="st on">공개</span></li>
-        <li><span class="no">EP.01</span><span class="t"><a href="series/ep01-gannapsa.html">간납사 금지법: 병원 구매의 숨은 통로</a><small>2027년 의료기기법 개정을 앞두고 매물로 나오는 대학병원 간납사들</small></span><span class="st on">공개</span></li>
-        <li><span class="no">EP.02</span><span class="t">병원이 제약사를 키우는 구조<small>의료재단과 제약사, 그리고 캡티브 마켓</small></span><span class="st">곧 공개</span></li>
-        <li><span class="no">EP.03</span><span class="t">사모펀드는 왜 의약품 유통과 임플란트를 샀나<small>지오영과 MBK가 보여 주는 헬스케어 자본의 논리</small></span><span class="st">곧 공개</span></li>
-      </ol>
-      <p style="margin-top:22px"><a class="btn" href="series/">전체 목록</a></p>
-    </div>
-  </section>
-
-  <section class="block">
-    <div class="wrap author">
-      <div>
-        <p class="kicker">Author</p>
-        <div class="id"><b>닥터조단</b><span>현직 외과계 전문의</span></div>
-      </div>
-      <div>
-        <p style="margin-top:0">진료실과 수술방에서 일하며 약과 기구, 병원 운영이 어떻게 돌아가는지 가까이서 봐 왔습니다. 그 장면을 경제의 언어로 옮겨 적습니다.</p>
-        <p><a href="about.html">필자 소개와 글쓰기 원칙 보기 →</a></p>
-      </div>
-    </div>
-  </section>
-
-  <section class="block" id="subscribe" style="border-bottom:0">
-    <div class="wrap">
-      <div class="subscribe">
-        <div>
-          <p class="kicker" style="color:#9aa4ba">Subscribe</p>
-          <h2>새 글을 가장 먼저 받아 보세요</h2>
-          <p>이메일 뉴스레터를 준비하고 있습니다. 그전까지는 네이버 블로그에서 새 글 소식을 받아 보실 수 있습니다.</p>
-        </div>
-        <div>
-          <a class="btn solid" href="https://blog.naver.com/jordanam">네이버 블로그에서 이웃 추가</a>
-          <p class="note">이메일 뉴스레터 · 곧 오픈</p>
-        </div>
-      </div>
-    </div>
-  </section>
-</main>
-
-<footer>
-  <div class="wrap">
-    <span class="fb">MEDNOMICS · 두 개의 차트</span>
-    <p class="disc">Mednomics의 글은 공개된 자료를 바탕으로 한 산업 해설이며, 특정 종목의 매수나 매도를 권하지 않습니다. 투자 판단과 그 결과의 책임은 투자자 본인에게 있습니다. 개별 환자의 진료를 대신하지도 않습니다.</p>
-    <p class="disc">이 사이트의 글과 그림의 저작권은 닥터조단에게 있으며, 무단 복제와 재배포를 금합니다. 인용할 때는 출처(mednomics.co.kr)를 밝혀 주세요.</p>
+  <div class="wave"><svg viewBox="0 0 1200 200" aria-hidden="true" class=""><defs><linearGradient id="wg" x1="0" x2="1"><stop offset="0" stop-color="#ff4d5e"/><stop offset=".42" stop-color="#ff4d5e"/><stop offset=".52" stop-color="#f4f6f8"/><stop offset=".62" stop-color="#2fd27f"/><stop offset="1" stop-color="#2fd27f"/></linearGradient></defs><path class="glow ln" d="M0 140 H140 l12 -10 l12 10 H210 l10 16 l16 -110 l16 128 l10 -34 H330 l16 -16 l16 16 H430 l10 -9 l10 9 H520 C 560 140, 590 132, 620 124 L660 134 L700 108 L740 116 L780 92 L820 100 L860 72 L900 82 L940 56 L980 66 L1020 42 L1060 50 L1100 28 L1140 34 L1180 18" fill="none" stroke="url(#wg)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path class="ln" d="M0 140 H140 l12 -10 l12 10 H210 l10 16 l16 -110 l16 128 l10 -34 H330 l16 -16 l16 16 H430 l10 -9 l10 9 H520 C 560 140, 590 132, 620 124 L660 134 L700 108 L740 116 L780 92 L820 100 L860 72 L900 82 L940 56 L980 66 L1020 42 L1060 50 L1100 28 L1140 34 L1180 18" fill="none" stroke="url(#wg)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><circle class="dot" cx="1180" cy="18" r="6" fill="#2fd27f"/></svg></div>
+  <div class="legend"><b class="r">● 환자 차트 · PULSE</b><b class="g">MARKET · 주가 차트 ●</b></div>
+  <div class="cta">
+    <a class="btn solid" href="series/ep02-samchundang.html">최신 글 읽기 →</a>
+    <a class="btn" href="series/prologue.html">연재를 시작하며</a>
   </div>
-</footer>
+</section>
+
+<section class="sec">
+  <p class="label">Latest</p>
+  <h2>최신 글</h2>
+  <ol class="posts"><li><a href="series/ep02-samchundang.html">
+  <span class="meta">EP.02 · <span class="tag">병원과 제약</span> · 2026. 11. 1</span>
+  <h3>병원이 제약사를 키우는 구조: 성심병원과 삼천당제약</h3><p>병원 재단, 약을 대는 유통회사, 그 유통회사가 최대주주인 제약사. 2026년 코스닥을 흔든 삼천당제약의 뿌리를 따라가 본다.</p></a></li>
+<li><a href="series/ep01-gannapsa.html">
+  <span class="meta">EP.01 · <span class="tag">병원의 돈</span> · 2026. 10. 31</span>
+  <h3>간납사 금지법: 병원 구매의 숨은 통로</h3><p>2027년 말 개정 의료기기법을 앞두고 대학병원 간납사들이 매물로 나오는 이유. 통로는 남고 주인만 바뀐다.</p></a></li>
+<li><a href="series/prologue.html">
+  <span class="meta">PROLOGUE · <span class="tag">연재 소개</span> · 2026. 10. 31</span>
+  <h3>연재를 시작하며: 왜 두 개의 차트인가</h3><p>의사는 환자 차트를, 시장은 주가 차트를 읽는다. 헬스케어 산업에서 두 차트를 함께 읽어야 하는 이유.</p></a></li></ol>
+  <p class="label" style="margin-top:46px">Coming up</p>
+  <ul class="soon"><li><b>EP.03</b>사모펀드는 왜 의약품 유통과 임플란트를 샀나</li><li><b>EP.04</b>미용 의사 세후 2천만 원의 경제학</li><li><b>EP.05</b>병원 밖으로 나간 의사들</li><li><b>EP.06</b>약국은 어디로 가는가</li><li><b>EP.07</b>비만 치료제가 바꾼 제약 지도</li><li><b>EP.08</b>바이오 기업공개를 읽는 법</li></ul>
+</section>
+
+<section class="who"><div class="sec">
+  <p class="label">Author</p>
+  <blockquote><span class="r">환자의 차트</span>와 <span class="g">시장의 차트</span>,<br>둘 다 읽어야 보이는 것이 있습니다.</blockquote>
+  <p class="by"><b>닥터조단</b> · 현직 외과계 전문의. 진료실과 수술방에서 본 헬스케어 산업을 숫자로 옮겨 적습니다. <a href="about.html">필자 소개 →</a></p>
+</div></section>
+
+<section class="sec" id="subscribe">
+  <p class="label">Subscribe</p>
+  <h2>새 글을 가장 먼저</h2>
+  <div class="sub-box">
+    <p>이메일 뉴스레터를 준비하고 있습니다. 그전까지는 네이버 블로그에서 새 글 소식을 받아 보실 수 있습니다.</p>
+    <a class="btn" href="https://blog.naver.com/jordanam">네이버 블로그 이웃 추가</a>
+    <small>EMAIL NEWSLETTER · COMING SOON</small>
+  </div>
+</section>
+<footer><div class="in">
+  <span class="fl">MEDNOMICS · 두 개의 차트</span>
+  <p>Mednomics의 글은 공개된 자료를 바탕으로 한 산업 해설이며, 특정 종목의 매수나 매도를 권하지 않습니다. 투자 판단과 그 결과의 책임은 투자자 본인에게 있습니다. 개별 환자의 진료를 대신하지도 않습니다.</p>
+  <p>이 사이트의 글과 그림의 저작권은 닥터조단에게 있으며, 무단 복제와 재배포를 금합니다. 인용할 때는 출처(mednomics.co.kr)를 밝혀 주세요.</p>
+</div></footer>
 <div class="print-block">인쇄할 수 없습니다.</div>
 <script src="protect.js"></script>
 </body>
