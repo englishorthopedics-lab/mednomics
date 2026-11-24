@@ -1,0 +1,56 @@
+{
+ "groups": [
+  {"id": "gov", "name": "정부·공공기관", "name_en": "Government and public agencies", "items": [
+   ["보건복지부","Ministry of Health and Welfare","https://www.mohw.go.kr","보건의료 정책, 보도자료, 건정심 안건","Health policy, press releases, review committee agendas"],
+   ["국민건강보험공단","National Health Insurance Service","https://www.nhis.or.kr","보험료, 수가협상, 건강보험 통계","Premiums, fee negotiations, insurance statistics"],
+   ["건강보험심사평가원","HIRA","https://www.hira.or.kr","급여 기준, 심사, 적정성 평가","Coverage criteria, claims review, quality assessments"],
+   ["식품의약품안전처","Ministry of Food and Drug Safety","https://www.mfds.go.kr","의약품·의료기기 허가와 안전 정보","Drug and device approvals and safety"],
+   ["질병관리청","KDCA","https://www.kdca.go.kr","감염병, 예방접종, 만성질환 통계","Infectious disease, vaccination, chronic disease data"],
+   ["한국보건산업진흥원","KHIDI","https://www.khidi.or.kr","바이오헬스 수출, 외국인 환자, 산업 동향","Bio-health exports, foreign patients, industry trends"],
+   ["한국의료분쟁조정중재원","Korea Medical Dispute Mediation Agency","https://www.k-medi.or.kr","의료분쟁 조정 통계와 사례","Medical dispute mediation statistics and cases"]]},
+  {"id": "data", "name": "데이터·공시", "name_en": "Data and disclosures", "items": [
+   ["보건의료빅데이터개방시스템","HIRA Healthcare Bigdata Hub","https://opendata.hira.or.kr","질병·의료기관·처방 통계","Statistics on diseases, providers and prescriptions"],
+   ["건강보험 자료공유서비스","NHIS data sharing service","https://nhiss.nhis.or.kr","건강보험 코호트·맞춤형 자료","Insurance cohorts and custom datasets"],
+   ["보건산업통계포털","Health industry statistics portal","https://www.khiss.go.kr","제약·의료기기·화장품 산업 통계","Pharma, device and cosmetics industry statistics"],
+   ["의약품안전나라","Drug safety portal (nedrug)","https://nedrug.mfds.go.kr","의약품 허가 정보와 생산 실적","Drug approvals and production data"],
+   ["의료기기 전자민원창구","Medical device e-service","https://emed.mfds.go.kr","의료기기 허가·인증 정보","Device approvals and certifications"],
+   ["KOSIS 국가통계포털","KOSIS","https://kosis.kr","의료 인력, 의료기관, 국민의료비 통계","Statistics on workforce, facilities and health spending"],
+   ["DART 전자공시","DART (FSS disclosures)","https://dart.fss.or.kr","상장·비상장 회사의 공시와 감사보고서","Filings and audit reports of listed and unlisted firms"],
+   ["KIND 상장공시","KIND (KRX disclosures)","https://kind.krx.co.kr","거래소 공시, 신규 상장, 기업 정보","Exchange filings, IPOs, company profiles"],
+   ["KRX 정보데이터시스템","KRX Data Marketplace","https://data.krx.co.kr","업종 지수와 종목 시세 데이터","Sector indices and price data"]]},
+  {"id": "law", "name": "국회·법령", "name_en": "Legislature and law", "items": [
+   ["국회 의안정보시스템","National Assembly bill information","https://likms.assembly.go.kr/bill/main.do","발의 법안, 심사 경과, 회의록","Bills, review progress, minutes"],
+   ["국가법령정보센터","Korea Law Information Center","https://www.law.go.kr","의료법·약사법·건강보험법 원문과 개정 이력","Full text and amendments of health laws"],
+   ["조세심판원","Tax Tribunal","https://www.tt.go.kr","결정례 검색(의료기관·제약 관련 과세 사건)","Search rulings, including healthcare tax cases"]]},
+  {"id": "assoc", "name": "협회·단체", "name_en": "Associations", "items": [
+   ["대한의사협회","Korean Medical Association","https://www.kma.org","의사단체 입장과 성명","Physicians' positions and statements"],
+   ["대한병원협회","Korean Hospital Association","https://www.kha.or.kr","병원계 동향, 수련환경 공고","Hospital sector news, residency notices"],
+   ["대한약사회","Korean Pharmaceutical Association","https://www.kpanet.or.kr","약국·약사 정책 입장","Pharmacy policy positions"],
+   ["한국제약바이오협회","KPBMA","https://www.kpbma.or.kr","제약산업 통계와 정책 건의","Pharma industry data and policy proposals"],
+   ["한국바이오협회","Korea Biotechnology Industry Organization","https://www.koreabio.org","바이오 산업 동향과 해외 행사","Biotech trends and overseas events"],
+   ["한국의료기기산업협회","KMDIA","https://www.kmdia.or.kr","의료기기 산업 동향과 규제 정보","Device industry and regulatory news"],
+   ["한국글로벌의약산업협회","KRPIA","https://www.krpia.or.kr","다국적 제약사 입장과 신약 접근성","Multinational pharma views and drug access"]]},
+  {"id": "media", "name": "의료 전문지", "name_en": "Healthcare trade press", "items": [
+   ["메디게이트뉴스","Medigate News","https://www.medigatenews.com","의사 커뮤니티 기반 정책·병원 뉴스","Policy and hospital news from a physician portal"],
+   ["청년의사","Docdocdoc","https://www.docdocdoc.co.kr","의료계 이슈와 기획 기사","Medical community issues and features"],
+   ["의학신문","Bosa (Medical Daily)","https://www.bosa.co.kr","정책·병원·제약 전반","Policy, hospitals and pharma"],
+   ["데일리팜","Dailypharm","https://www.dailypharm.com","제약·약국·약가 뉴스","Pharma, pharmacy and drug pricing"],
+   ["메디칼타임즈","Medical Times","https://www.medicaltimes.com","개원가·병원 경영 뉴스","Clinic and hospital management news"],
+   ["데일리메디","Dailymedi","https://www.dailymedi.com","병원계·수련 뉴스","Hospital and residency news"],
+   ["의협신문","Doctors News","https://www.doctorsnews.co.kr","대한의사협회 기관지","Korean Medical Association's paper"],
+   ["병원신문","Khanews","http://www.khanews.com","대한병원협회 기관지","Korean Hospital Association's paper"],
+   ["히트뉴스","Hit News","https://www.hitnews.co.kr","제약 산업·정책 분석","Pharma industry and policy analysis"],
+   ["바이오스펙테이터","BioSpectator","https://www.biospectator.com","바이오 신약 개발 심층 기사","In-depth biotech R&D coverage"]]},
+  {"id": "global", "name": "해외", "name_en": "Global", "items": [
+   ["미국 FDA","US FDA","https://www.fda.gov","신약 허가, 안전성 공지","Drug approvals and safety notices"],
+   ["유럽 EMA","European Medicines Agency","https://www.ema.europa.eu","CHMP 권고, 유럽 허가","CHMP opinions and EU approvals"],
+   ["미국 CMS","US CMS","https://www.cms.gov","미국 공보험(메디케어) 지불 정책","US Medicare payment policy"],
+   ["ClinicalTrials.gov","ClinicalTrials.gov","https://clinicaltrials.gov","전 세계 임상시험 등록 정보","Registry of clinical trials worldwide"],
+   ["OECD Health","OECD Health","https://www.oecd.org/health/","국가별 의료비·의사 수 비교","Cross-country health spending and workforce"],
+   ["NEJM","NEJM","https://www.nejm.org","주요 임상 연구 원문","Landmark clinical research"],
+   ["STAT","STAT","https://www.statnews.com","미국 제약·바이오·정책 뉴스","US pharma, biotech and policy news"],
+   ["Fierce Pharma","Fierce Pharma","https://www.fiercepharma.com","글로벌 제약 산업 뉴스","Global pharma industry news"],
+   ["Endpoints News","Endpoints News","https://endpts.com","바이오 딜·임상 뉴스","Biotech deals and trials"],
+   ["BioPharma Dive","BioPharma Dive","https://www.biopharmadive.com","바이오 산업 뉴스와 학회 일정","Biopharma news and conference calendars"]]}
+ ]
+}

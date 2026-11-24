@@ -1,0 +1,45 @@
+{
+  "name": "Mednomics · Two Charts",
+  "short_name": "Mednomics",
+  "description": "Korean healthcare business, read by a doctor: daily news, key numbers, industry map and analysis.",
+  "lang": "en",
+  "dir": "ltr",
+  "id": "/en/",
+  "start_url": "/en/?source=app",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07090c",
+  "theme_color": "#07090c",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Today's news",
+      "url": "/en/news/"
+    },
+    {
+      "name": "Insight",
+      "url": "/en/insight/"
+    },
+    {
+      "name": "Series",
+      "url": "/en/series/"
+    }
+  ]
+}

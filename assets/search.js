@@ -1,7 +1,7 @@
 (function(){
   var data=null;
   function load(cb){ if(data) return cb(); var b=document.querySelector('link[rel=icon]').getAttribute('href').replace('assets/favicon.svg','');
-    fetch(b+'search-index.json').then(function(r){return r.json()}).then(function(j){data=j;cb()}).catch(function(){data=[];cb()}); }
+    fetch(b+((document.documentElement.lang||'').indexOf('en')===0?'en/':'')+'search-index.json').then(function(r){return r.json()}).then(function(j){data=j;cb()}).catch(function(){data=[];cb()}); }
   function base(){ return document.querySelector('link[rel=icon]').getAttribute('href').replace('assets/favicon.svg',''); }
   function esc(s){ return s.replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]}); }
   function run(q,ul){
@@ -11,7 +11,7 @@
       for(var i=0;i<ws.length;i++){ if(h.indexOf(ws[i])<0){sc=-1;break;} sc+= e.t.toLowerCase().indexOf(ws[i])>-1?5:1; }
       if(sc>0) out.push([sc,e]); });
     out.sort(function(a,b){return b[0]-a[0]});
-    ul.innerHTML=out.length?out.slice(0,12).map(function(r){return '<li><a href="'+base()+r[1].u+'"><b>'+esc(r[1].t)+'</b><span>'+esc(r[1].d)+'</span></a></li>'}).join(''):'<li><span>검색 결과가 없습니다.</span></li>';
+    ul.innerHTML=out.length?out.slice(0,12).map(function(r){return '<li><a href="'+base()+r[1].u+'"><b>'+esc(r[1].t)+'</b><span>'+esc(r[1].d)+'</span></a></li>'}).join(''):'<li><span>'+((document.documentElement.lang||'').indexOf('en')===0?'No results.':'검색 결과가 없습니다.')+'</span></li>';
   }
   var ov=document.getElementById('search'), q=document.getElementById('q'), ul=document.getElementById('results');
   var ob=document.getElementById('open-search'), cb=document.getElementById('close-search');

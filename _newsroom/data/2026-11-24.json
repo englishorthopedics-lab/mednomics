@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-24",
+  "headline": "면허의 경계를 두고 국회가 붐빈 하루",
+  "headline_en": "A day of turf fights at the National Assembly",
+  "oneline": "한의사 X-ray, 의료기사 기관 외 업무, 약사·한약사 교차고용. 같은 날 국회에 오른 법안 셋이 모두 '누가 어디까지 하느냐'의 문제임.",
+  "oneline_en": "X-rays for Korean-medicine doctors, off-site work for medical technicians, cross-hiring of pharmacists: three bills on the same day, all about who may do what.",
+  "items": [
+    {
+      "cat": "정책", "cat_en": "Policy",
+      "title": "한의사 X-ray 허용법 소위 심사…의협·한의협 국회 앞 맞불",
+      "title_en": "Bill on X-rays for Korean-medicine doctors goes to subcommittee as both sides rally",
+      "summary": "국회 복지위 법안소위가 24일 의료기관 개설자를 진단용 방사선 장비의 안전관리책임자로 정하는 의료법 개정안을 심사했음. 의협은 오전 국회 앞 궐기대회에서 사실상 한의원의 고선량 X-ray를 허용하는 법이라며 폐기를 요구했고, 한의협은 같은 자리에서 입법을 촉구했음.",
+      "summary_en": "The welfare committee's subcommittee reviewed a medical law amendment on Nov 24 that would make any clinic founder the safety officer for diagnostic X-ray equipment. The Korean Medical Association rallied outside the Assembly calling it a back door for X-rays in Korean-medicine clinics; the Korean-medicine association held its own event urging passage.",
+      "take": "형식은 안전관리 규정이지만 실제 쟁점은 진단 장비를 누가 쓰느냐임. 소위 결론에 따라 영상 장비 시장도 움직일 수 있음.",
+      "take_en": "It is written as a safety rule, but the fight is over who may use diagnostic equipment. The outcome could also move the imaging device market.",
+      "sources": [
+        {"name": "의학신문", "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017182"},
+        {"name": "MTN", "url": "https://news.mtn.co.kr/article/2026112416250214069"}
+      ]
+    },
+    {
+      "cat": "정책", "cat_en": "Policy",
+      "title": "간협도 '한의사 X-ray' 지지…서울시의사회 \"사과하라\"",
+      "title_en": "Nurses back the X-ray bill; Seoul physicians demand an apology",
+      "summary": "대한간호협회가 환자의 진료 선택권과 병원 간 이동 부담을 들어 개정안 지지 입장을 냈음. 서울시의사회는 24일 간호계 대표 단체가 면허 체계를 흔드는 데 힘을 보탰다며 사과를 요구했음.",
+      "summary_en": "The Korea Nurses Association backed the amendment, citing patient choice and the burden of moving between clinics. The Seoul Medical Association said on Nov 24 that the nurses' group was undermining the licensing system and demanded an apology.",
+      "take": "", "take_en": "",
+      "sources": [
+        {"name": "의학신문", "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017218"}
+      ]
+    },
+    {
+      "cat": "정책", "cat_en": "Policy",
+      "title": "의료기사법 개정안 소위 통과…의사 처방 있으면 기관 밖 업무",
+      "title_en": "Medical technician bill clears subcommittee, allowing off-site work with a prescription",
+      "summary": "복지위 법안소위가 24일 관련 단체 협의안을 바탕으로 의료기사법 개정안을 의결했음. 의료기사를 의사의 '지도에 따라' 일하는 사람으로 정의했고, 다른 법령에서 정한 경우 의사 처방을 근거로 의료기관 밖 업무를 허용하되 의사가 정보통신기술로 이를 확인하도록 했음.",
+      "summary_en": "The subcommittee passed an amendment to the medical technicians act on Nov 24, based on a compromise among professional groups. Technicians are defined as working 'under a doctor's direction', and off-site work is allowed on a doctor's prescription where other laws provide for it, with doctors confirming it through digital means.",
+      "take": "물리치료·방사선 등 의료기사의 방문 서비스가 열릴 수 있는 문임. 처방과 확인의 책임이 의사에게 남는 구조라 수가 설계가 다음 관문임.",
+      "take_en": "This could open the door to home visits by physical therapists and radiographers. Responsibility for prescribing and checking stays with the doctor, so payment design is the next hurdle.",
+      "sources": [
+        {"name": "의학신문", "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017202"}
+      ]
+    },
+    {
+      "cat": "약국", "cat_en": "Pharmacy",
+      "title": "약사·한약사 교차고용 금지법, 정부 '신중' 의견에 소위 난항",
+      "title_en": "Government urges caution on bill banning pharmacist–herbal pharmacist cross-hiring",
+      "summary": "약국 개설자 면허에 따라 약사와 한약사를 서로 고용하지 못하게 하는 약사법 개정안에 복지부가 직업수행의 자유를 지나치게 제한할 수 있다며 신중 검토 의견을 냈음. 24일 소위 통과가 쉽지 않을 것으로 전망됐음.",
+      "summary_en": "The health ministry said a pharmacy bill barring pharmacy owners from hiring the other license type could overly restrict freedom of occupation, and urged caution. The bill was expected to struggle at the Nov 24 subcommittee.",
+      "take": "", "take_en": "",
+      "sources": [
+        {"name": "데일리팜", "url": "https://dailypharm.com/user/news/344930"}
+      ]
+    },
+    {
+      "cat": "정책", "cat_en": "Policy",
+      "title": "건보공단 특사경법, 16일 이어 18일에도 처리 불발",
+      "title_en": "NHIS investigator bill stalls again on Nov 18",
+      "summary": "법사위는 16일 의결을 보류한 데 이어 18일 전체회의에서도 야당 위원 불참으로 법안을 처리하지 못했음. 공단은 수사 기간을 평균 11개월에서 3개월로 줄여 연간 약 2000억 원의 재정 누수를 막을 수 있다고 주장하고, 법무부는 이해충돌 문제가 완전히 풀리지는 않았다는 입장임.",
+      "summary_en": "After deferring a vote on Nov 16, the Legislation Committee again failed to act on Nov 18 as opposition members stayed away. The NHIS says the powers would cut investigations from 11 months to three and save about KRW 200bn a year; the justice ministry says conflict-of-interest concerns remain.",
+      "take": "환수 결정액 대비 징수율이 9%에도 못 미친다는 숫자가 공단 논리의 핵심임. 반대로 기소 의견 송치율이 낮다는 숫자는 의료계 논리의 핵심임.",
+      "take_en": "The NHIS leans on a recovery rate below 9%; the medical side leans on low referral-for-prosecution rates. Same problem, different numbers.",
+      "sources": [
+        {"name": "서울경제", "url": "https://m.sedaily.com/article/20116079"},
+        {"name": "데일리메디", "url": "https://dailymedi.com/news/news_view.php?wr_id=942645"}
+      ]
+    },
+    {
+      "cat": "보장성", "cat_en": "Coverage",
+      "title": "12월 1일부터 희귀·중증난치 본인부담 10%→7%",
+      "title_en": "Co-pay for rare and severe intractable diseases falls to 7% on Dec 1",
+      "summary": "산정특례에 등록된 희귀·중증난치질환자 약 136만 명의 본인부담률이 12월 1일 진료분부터 7%로 내려감. 1인당 연평균 부담은 약 75만 원에서 53만 원으로 줄 것으로 추산되며, 2028년 상반기에는 5%로 한 번 더 낮아짐.",
+      "summary_en": "About 1.36 million registered patients with rare or severe intractable diseases will pay 7% instead of 10% for care from Dec 1. Average annual out-of-pocket costs are expected to fall from about KRW 750,000 to KRW 530,000, with a further cut to 5% in the first half of 2028.",
+      "take": "", "take_en": "",
+      "sources": [
+        {"name": "대한민국 정책브리핑", "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974989"}
+      ]
+    },
+    {
+      "cat": "제약·바이오", "cat_en": "Pharma & bio",
+      "title": "바로팜, 회생 중인 정우신약 100억 원에 인수",
+      "title_en": "Barofarm buys insolvent Jungwoo Pharm for KRW 10bn",
+      "summary": "이달 코스닥에 상장한 약국 주문 플랫폼 바로팜이 회생절차 중인 정우신약의 최종 인수예정자로 선정됐음. 약 100억 원에 지분 100%를 확보하며, 아산공장과 일반의약품 등 약 90개 품목을 얻게 됨.",
+      "summary_en": "Barofarm, a pharmacy ordering platform that listed on KOSDAQ this month, was picked as the final buyer of Jungwoo Pharm, which is in court receivership. It will pay about KRW 10bn for 100% and gain an Asan plant and about 90 products.",
+      "take": "유통 플랫폼이 공장을 사서 자체 제품을 만드는 흐름임. 플랫폼이 제조로 내려가면 기존 제약사와 경쟁 구도가 바뀜.",
+      "take_en": "A distribution platform is buying a factory to make its own products. When platforms move into manufacturing, the competitive map for drugmakers changes.",
+      "sources": [
+        {"name": "데일리팜", "url": "https://dailypharm.com/user/news/344937"}
+      ]
+    },
+    {
+      "cat": "의료기기·AI", "cat_en": "Devices & AI",
+      "title": "미국서 챗GPT 안에서 처방전 작성·전송까지",
+      "title_en": "In the US, prescriptions can now be written and sent inside ChatGPT",
+      "summary": "미국 처방 플랫폼 기업 포톤이 챗GPT 연동 플러그인을 내놨음. 자격을 갖춘 미국 의료진은 같은 대화창에서 치료 방안을 검토하고 처방전을 작성·전송할 수 있고, 약물 상호작용 점검과 약국별 가격도 확인할 수 있음.",
+      "summary_en": "US prescribing platform Photon launched a ChatGPT plug-in. Eligible US clinicians can review treatment options, then write and send prescriptions in the same chat, with interaction checks and pharmacy price comparisons.",
+      "take": "생성형 AI가 판단 보조를 넘어 실제 진료 업무를 처리하기 시작했다는 신호임. 국내에선 처방전 전송 규제가 먼저 풀려야 하는 영역임.",
+      "take_en": "A sign that generative AI is moving from decision support to doing clinical work. In Korea, e-prescription rules would have to change first.",
+      "sources": [
+        {"name": "메디게이트뉴스", "url": "https://www.medigatenews.com/news/1860450049"}
+      ]
+    },
+    {
+      "cat": "규제", "cat_en": "Regulation",
+      "title": "식약처장, 수액제 '매개변수 기반 출하' 현장 점검",
+      "title_en": "Drug safety chief inspects parametric release for IV fluids",
+      "summary": "오유경 처장이 24일 HK이노엔 오송공장을 찾아 제조 과정의 공정 변수로 무균성을 판단하는 출하 제도를 점검하고 수액제 제조사 3곳과 간담회를 열었음. GMP 강화로 무균시험 샘플이 1개 이상에서 10개 이상으로 늘어난 업계 부담을 줄이려는 조치임.",
+      "summary_en": "MFDS chief Oh Yu-kyoung visited HK inno.N's Osong plant on Nov 24 to review release based on process parameters instead of end-product sterility tests, and met three IV fluid makers. Stricter GMP had raised sterility test samples from one to ten or more.",
+      "take": "", "take_en": "",
+      "sources": [
+        {"name": "데일리팜", "url": "https://dailypharm.com/user/news/344987"}
+      ]
+    }
+  ],
+  "watch": [
+    {"text": "한의사 X-ray 허용 의료법 개정안, 복지위 소위 심사 결과", "text_en": "Outcome of the subcommittee review of the X-ray bill", "url": "https://news.mtn.co.kr/article/2026112416250214069", "name": "MTN"},
+    {"text": "25일 국회 토론회: 창고형 약국·편의점 상비약 안전관리", "text_en": "Nov 25 Assembly forum on warehouse pharmacies and convenience-store medicines", "url": "https://dailypharm.com/user/news/344922", "name": "데일리팜"},
+    {"text": "건보공단 특사경법, 법사위 재심사 일정", "text_en": "When the Legislation Committee takes up the NHIS investigator bill again", "url": ""},
+    {"text": "12월 1일 희귀·중증난치 본인부담 7% 시행", "text_en": "Dec 1 start of the 7% co-pay for rare and intractable diseases", "url": ""}
+  ]
+}

@@ -1,0 +1,702 @@
+§f1b1582 About the author: Dr. Jordan · Mednomics
+§f509a43 Skip to content
+§94b7dba Close
+§3fdb19e Dr. Jordan
+§2a00f3c A practicing surgical specialist who turns what he sees in clinics and operating rooms into numbers about the healthcare industry.
+§5c5a98e I have watched up close where drugs and devices are actually used, and how hospitals buy supplies and hire people.
+§d04a975 I wrote about the economy and companies on my blog for years before realizing I had left out the field I know best. Mednomics fills that gap. The name joins medicine and economics.
+§516ec56 I write under a pen name. I want the work judged by its content and evidence, not by a name.
+§36cf3ee Writing principles
+§a906b8e Public sources only
+§04feb3d I rely on material anyone can check: news, filings, papers and policy documents. I do not use undisclosed information heard from others.
+§65d3fbd No stock picks
+§a000ea2 I explain how the industry works. I never tell you to buy or sell a particular stock.
+§be71e71 Interests disclosed
+§58552cc If I ever have a financial relationship with a company I cover, I say so clearly in the article.
+§a1c06ac Patients come first
+§73ca5c9 I do not write about cases that could identify a patient. Stories from practice are generalized.
+§1053224 Sources cited
+§fffac62 Numbers and claims come with evidence. Errors are corrected as soon as confirmed, and the correction is noted.
+§1167398 Corrections
+§56ca084 If you spot an error, please let me know. I fix the text once confirmed and update the revision date at the bottom of the article. Figures can differ between reports; when they do, I use the latest source and say so.
+§f885f01 New posts appear first on RSS and our Naver blog. An email newsletter is coming.
+§e0c19b0 <a class="btn" href="https://blog.naver.com/jordanam">Follow on Naver Blog</a><a class="btn" href="/rss.xml">Subscribe via RSS</a>
+§6395efc MEDNOMICS · Two Charts
+§8e02a4e Mednomics offers industry commentary based on public sources. It is not a recommendation to buy or sell any security, and it does not replace individual medical care. Investment decisions and their results are the reader's own responsibility.
+§875009a All text and graphics on this site are © Dr. Jordan. Do not copy or redistribute without permission. When quoting, please credit mednomics.co.kr.
+§cade1cc Printing is disabled.
+§8914e0f Dr. Jordan, author of Mednomics, is a practicing surgical specialist. Read the writing principles: public sources only, no stock picks.
+§4f5a3f6 Search
+§0ce2c92 GPO, Wegovy, rebates ...
+§81d7997 Practicing surgical specialist
+§3c9ab88 Writes about the healthcare industry in numbers, from the clinic and the operating room
+§13a46f9 Home
+§fb56752 About the author
+§acc6f04 Issue board: healthcare issues we are watching · Mednomics
+§24f5e60 Issue board
+§3f3a7ba Healthcare issues we are watching now and what to look for next. Updated as news is confirmed. Last updated 2026-11-14.
+§bf797c6 <b>Dividends to doctors' families: rebates or not?</b><span>Tax Tribunal fully overturned the tax office's assessment (2025-Seo-3143). Dividends followed share counts. Criminal liability and the Seoul Western District shell-company trial are separate.</span><em><a href="series/ep06-doctor-family-dividend.html">Read</a></em>
+§0aa13a9 <b>From plastic surgery to dermatology</b><span>Dermatology and urology revenue up in Apgujeong and Sinsa, plastic surgery down. The link to the on-call hiring crunch is a hypothesis.</span><em><a href="series/ep05-aesthetic-doctors.html">Read</a> · <a href="trackers/aesthetic-market.html">Tracker</a></em>
+§4cc513e <b>Preparing for the purchasing-intermediary ban</b><span>Takes effect Dec 31, 2027. Hospitals are selling their stakes. Next to watch: who buys Asan Medical Center's Medigood Partners.</span><em><a href="series/ep01-gannapsa.html">Read</a> · <a href="trackers/gannapsa-ma.html">Tracker</a></em>
+§ef939aa <b>Insurance coverage for obesity drugs</b><span>Wegovy coverage application (Oct 12); review of 'managed coverage' (Oct 28). Eligibility and co-pay not yet set.</span><em><a href="series/ep04-glp1-knee.html">Read</a> · <a href="trackers/glp1-korea.html">Tracker</a></em>
+§bf72a50 <b>Efpeglenatide launch</b><span>Korea's first home-grown obesity drug. KRW 129,800 for the first month. Q3 market share will be the first number to watch.</span><em><a href="series/ep04-glp1-knee.html">Read</a> · <a href="trackers/glp1-korea.html">Tracker</a></em>
+§14002fc <b>Samchundang's oral insulin</b><span>European Phase 1 results, Phase 2 approval, and changes in the Soha–Insan MTS structure.</span><em><a href="series/ep02-samchundang.html">Read</a></em>
+§c21b433 <b>MBK's healthcare exits</b><span>When and how it sells Osstem Implant and Medit, and financing after Homeplus.</span><em><a href="series/ep03-mbk-healthcare.html">Read</a> · <a href="trackers/mbk-healthcare.html">Tracker</a></em>
+§400d6db The purchasing-intermediary ban, obesity drug coverage, the efpeglenatide launch, Samchundang and MBK's exits: the healthcare issues we are watching, in one place.
+§c9b9138 Healthcare industry glossary · Mednomics
+§cf387ae Glossary
+§0e1e82a Look up the terms used in our articles. The list grows with every new post.
+§6cadfd7 Group Purchasing Organization. A purchasing agent that pools buying for many hospitals, negotiates with manufacturers and earns fees. Common in the US.<small>Appears in: <a href="series/ep01-gannapsa.html">EP.01</a></small>
+§a16ce8e A questionnaire score for pain, stiffness and function in knee and hip osteoarthritis. Studies often convert it to a 0–100 scale.<small>Appears in: <a href="series/ep04-glp1-knee.html">EP.04</a></small>
+§6174601 Purchasing intermediary (gannapsa)
+§9d3289d An indirect supplier that delivers medical supplies or drugs to hospitals on behalf of manufacturers and distributors. Often partly owned by the hospital foundation or the owner's relatives; its cut is sometimes called a 'toll'.<small>Appears in: <a href="series/ep01-gannapsa.html">EP.01</a></small>
+§34ece60 Tender offer
+§a945c8b Buying shares from many shareholders by publicly offering to purchase them outside the market.<small>Appears in: <a href="series/ep03-mbk-healthcare.html">EP.03</a></small>
+§65dd2d1 Managed coverage
+§a3180b4 A coverage type within national insurance that controls price and use but sets a high co-pay. Raised in the parliamentary audit as a route for obesity drugs.<small>Appears in: <a href="series/ep04-glp1-knee.html">EP.04</a></small>
+§2ee28b9 Reimbursement listing
+§1b87332 When a drug is added to the national insurance list and can be prescribed under insurance. A company applies, then goes through assessment and price negotiation.<small>Appears in: <a href="series/ep04-glp1-knee.html">EP.04</a></small>
+§4ff5405 Licensing and milestones
+§96d0819 A deal that transfers rights to a drug to another company in return for an upfront payment and staged milestone payments. Not all of the announced value is guaranteed income.<small>Appears in: <a href="series/ep02-samchundang.html">EP.02</a></small>
+§13e6a84 Dual-punishment rebate rule
+§eda7c0b A rule that punishes both those who offer benefits in return for drug adoption or prescriptions and the doctors or pharmacists who accept them. Introduced in 2010.<small>Appears in: <a href="series/ep06-doctor-family-dividend.html">EP.06</a></small>
+§a486951 Payout ratio
+§fb151c7 The share of a year's net profit paid out as dividends. Paying KRW 50 on KRW 100 of profit is a 50% payout ratio.<small>Appears in: <a href="series/ep06-doctor-family-dividend.html">EP.06</a></small>
+§b1dbf10 Bolt-on
+§3906bea An acquisition strategy of adding related businesses to a company you already own, such as buying an intraoral scanner maker for an implant company.<small>Appears in: <a href="series/ep03-mbk-healthcare.html">EP.03</a></small>
+§7f95a90 Unfaithful disclosure designation
+§51f7941 A listed company flagged by the Korea Exchange for failing disclosure duties. Accumulated penalty points can lead to a trading halt or a delisting review.<small>Appears in: <a href="series/ep02-samchundang.html">EP.02</a></small>
+§74945c8 Uninsured care (bigeubyeo)
+§4798962 Care or drugs that national insurance does not cover, so the patient pays in full.<small>Appears in: <a href="series/ep04-glp1-knee.html">EP.04</a> · <a href="series/ep05-aesthetic-doctors.html">EP.05</a></small>
+§0f85d9c Notice of income reclassification
+§224ae86 A tax office notice telling a company that a payment is a certain person's income of a certain type and that tax must be withheld. The company then has to withhold accordingly.<small>Appears in: <a href="series/ep06-doctor-family-dividend.html">EP.06</a></small>
+§3e216d6 Substance-over-form principle
+§5e17602 The rule that tax follows the real substance of a transaction rather than its name or form. A payment labeled a dividend can be taxed as a kickback if that is what it is, but the tax authority must prove the substance.<small>Appears in: <a href="series/ep06-doctor-family-dividend.html">EP.06</a></small>
+§577da94 Paid capital reduction
+§44722e3 Reducing capital by paying shareholders to buy back and cancel shares. When a holding company does it, cash flows back to its owners.<small>Appears in: <a href="series/ep03-mbk-healthcare.html">EP.03</a></small>
+§89ffa42 Acquisition financing
+§4c51d82 Loans taken to fund buying a company. Private equity commonly stacks such loans on top to buy companies (a leveraged buyout).<small>Appears in: <a href="series/ep03-mbk-healthcare.html">EP.03</a></small>
+§626c88a Captive market
+§9b9608e A market built on customers effectively guaranteed within a buyer or a group. Critics call it funneling business to affiliates.<small>Appears in: <a href="series/ep02-samchundang.html">EP.02</a></small>
+§8b23445 Related party
+§cdfc0af Under the amended Medical Devices Act: relatives of a hospital founder within the second degree, holders of more than 50% of shares, or anyone who controls management regardless of shareholding.<small>Appears in: <a href="series/ep01-gannapsa.html">EP.01</a> · <a href="series/ep02-samchundang.html">EP.02</a> · <a href="series/ep06-doctor-family-dividend.html">EP.06</a></small>
+§c0b9b64 'Petite' cosmetic procedures
+§f247974 A press term for light, non-surgical cosmetic procedures such as Botox, fillers and lifting.<small>Appears in: <a href="series/ep05-aesthetic-doctors.html">EP.05</a></small>
+§0b51886 Plain-language definitions of the terms that come up in healthcare business stories: purchasing intermediaries, GPOs, capital reductions, bolt-ons, managed coverage and more.
+§35fcef0 Mednomics healthcare industry glossary
+§e163847 An indirect supplier that delivers medical supplies or drugs to hospitals on behalf of manufacturers and distributors. Often partly owned by the hospital foundation or the owner's relatives; its cut is sometimes called a 'toll'.
+§16d7803 Group Purchasing Organization. A purchasing agent that pools buying for many hospitals, negotiates with manufacturers and earns fees. Common in the US.
+§d5dcb08 Under the amended Medical Devices Act: relatives of a hospital founder within the second degree, holders of more than 50% of shares, or anyone who controls management regardless of shareholding.
+§6306e99 A market built on customers effectively guaranteed within a buyer or a group. Critics call it funneling business to affiliates.
+§e782a69 An acquisition strategy of adding related businesses to a company you already own, such as buying an intraoral scanner maker for an implant company.
+§7e3b588 Reducing capital by paying shareholders to buy back and cancel shares. When a holding company does it, cash flows back to its owners.
+§f126ba5 Loans taken to fund buying a company. Private equity commonly stacks such loans on top to buy companies (a leveraged buyout).
+§4345de8 Buying shares from many shareholders by publicly offering to purchase them outside the market.
+§d8aae24 A listed company flagged by the Korea Exchange for failing disclosure duties. Accumulated penalty points can lead to a trading halt or a delisting review.
+§a10c828 Care or drugs that national insurance does not cover, so the patient pays in full.
+§4d29b17 A coverage type within national insurance that controls price and use but sets a high co-pay. Raised in the parliamentary audit as a route for obesity drugs.
+§3914d67 When a drug is added to the national insurance list and can be prescribed under insurance. A company applies, then goes through assessment and price negotiation.
+§3cf577f A press term for light, non-surgical cosmetic procedures such as Botox, fillers and lifting.
+§b80282d A questionnaire score for pain, stiffness and function in knee and hip osteoarthritis. Studies often convert it to a 0–100 scale.
+§23e8fb4 A deal that transfers rights to a drug to another company in return for an upfront payment and staged milestone payments. Not all of the announced value is guaranteed income.
+§da25b54 Mednomics · Two Charts: Korean healthcare business, read by a doctor
+§b648c76 <span><em class="r">07:00</em>Ward rounds. Reading patient charts.</span> <span><em class="g">15:30</em>Market close. Reading stock charts.</span> <span><em>——</em>Notes from someone who reads two charts a day.</span>
+§2537c1e Two Charts
+§355493a Korean healthcare business, read by a doctor
+§c7b638e <b class="r">● PATIENT CHART · PULSE</b><b class="g">MARKET · STOCK CHART ●</b>
+§54ad99d <a class="btn solid" href="series/ep06-doctor-family-dividend.html">Read the latest →</a> <a class="btn" href="news/">Today's healthcare news</a> <a class="btn" href="insight/">Healthcare in numbers</a> <a class="btn" href="start.html">Start here</a>
+§0aab5da Latest
+§e1f32ea Hospitals &amp; pharma
+§8f72d74 KRW 148 in dividends per KRW 100 of drugs: were payouts to doctors' families kickbacks?
+§44454f3 The tax office saw a drug wholesaler's dividends to 57 family members of client hospital directors as rebates; the Tax Tribunal saw ordinary dividends. The deciding question was whether prescriptions caused the payouts.
+§8f0e9a8 Doctors &amp; money
+§e9899ff Doctors leaving the operating room: from plastic surgery to dermatology, and the on-call crunch
+§ff8de4b Why even plastic surgeons are switching to dermatology, read through local revenue, foreign patient data and dispute counts, and where it meets the hospital on-call hiring crunch.
+§daab855 Drugs &amp; bio
+§d856f55 The obesity drug three-way race and the economics of knees: Wegovy, Mounjaro, efpeglenatide
+§38d070b Korea's obesity drug market, where Mounjaro outsells Wegovy 3.7 to 1; the arrival of efpeglenatide, the first Korean entrant; and what the STEP 9 trial says about knee osteoarthritis and obesity drugs.
+§a610c0a Capital &amp; healthcare
+§ce9a44d Why private equity bought drug distribution and dental implants
+§7d9d9fb Osstem Implant, Medit, Geo-Young, Alinamin Pharmaceutical: what MBK Partners is after with roughly KRW 9tn put into healthcare over two years.
+§157038d <a href="series/">All series posts →</a>
+§651ab40 Issues we are watching
+§4d328e0 <b>Dividends to doctors' families: rebates or not?</b><span>Tax Tribunal fully overturned the assessment. Dividends followed share counts. Criminal liability is a separate question.</span>
+§16f347e <b>From plastic surgery to dermatology</b><span>Dermatology and urology revenue up in Apgujeong and Sinsa, plastic surgery down. The link to the on-call hiring crunch is a hypothesis.</span>
+§daa5035 <b>Preparing for the purchasing-intermediary ban</b><span>Takes effect Dec 31, 2027. Hospitals are selling their stakes. Next to watch: who buys Asan Medical Center's Medigood Partners.</span>
+§484b3f0 <b>Insurance coverage for obesity drugs</b><span>Wegovy coverage application (Oct 12); review of 'managed coverage' (Oct 28). Eligibility and co-pay not yet set.</span>
+§88ab0aa <a href="board.html">Full issue board →</a>
+§437ce38 Browse by topic
+§f3c46ef <a class="hub" href="topics/hospital-supply.html"><b>Hospitals &amp; supply</b><span>How hospitals buy supplies and use drugs: purchasing intermediaries, hospital foundations, drugmakers.</span></a><a class="hub" href="topics/capital-deals.html"><b>Capital &amp; M&amp;A</b><span>How private equity and conglomerates buy and sell healthcare.</span></a><a class="hub" href="topics/doctors-market.html"><b>Doctors &amp; the care market</b><span>Doctors' career paths, clinic openings and where money moves in the care market.</span></a><a class="hub" href="topics/drug-bio.html"><b>Drugs &amp; bio</b><span>Numbers and hypotheses on obesity drugs, oral insulin and other drug and biotech markets.</span></a>
+§442bea9 <a class="hub" href="trackers/aesthetic-market.html"><b>Aesthetic clinic tracker</b><span>Number of plastic surgery, dermatology and urology clinics in Apgujeong and Sinsa and their average monthly revenue…</span></a><a class="hub" href="trackers/gannapsa-ma.html"><b>Purchasing-intermediary M&amp;A tracker</b><span>University hospital purchasing-intermediary stake deals in one table: hospital, buyer, timing, status…</span></a><a class="hub" href="trackers/mbk-healthcare.html"><b>MBK healthcare deals tracker</b><span>Healthcare companies bought by MBK Partners: Medit, Osstem Implant, Geo-Young, Alinamin…</span></a><a class="hub" href="trackers/glp1-korea.html"><b>Obesity drug market tracker</b><span>Korean market figures and dates for Wegovy, Mounjaro and efpeglenatide; quarterly sales from IQVIA data…</span></a>
+§8e84e63 <a href="glossary.html">Glossary (19 terms) →</a>
+§e4d3e3c Some things only show when you read both <span class="r">the patient's chart</span><br>and <span class="g">the market's chart</span>.
+§e422cdb <b>Dr. Jordan</b> · Practicing surgical specialist. He turns what he sees in clinics and operating rooms into numbers about the healthcare industry. <a href="about.html">About the author →</a>
+§d547070 <b>EP.07</b>Doctors who left the hospital
+§1006cc1 <b>EP.08</b>Where pharmacies are heading
+§59a7318 <b>EP.09</b>How to read a biotech IPO
+§8352385 A practicing surgical specialist explains Korea's hospital, pharma and medical device industries in numbers: purchasing intermediaries, obesity drugs, private equity, pharma and biotech.
+§d0d1f9e Search · Mednomics
+§0128708 You can also open search from the button at the top.
+§04f2bf5 Search Mednomics
+§c126e0b Type a search term
+§437626b EP.01 The purchasing-intermediary ban: hospitals' hidden supply channel · Mednomics
+§54c9558 Two Charts · EP.01 · <span class="tag">Hospital money</span> · <time datetime="2026-10-31">Oct 31, 2026</time> · 4 min read
+§e477450 The purchasing-intermediary ban: hospitals' hidden supply channel
+§7d761b7 University hospitals' purchasing intermediaries are being sold one after another. Is the law closing the channel, or just changing its owner?
+§d13e1b8 <a href="../">Home</a> / <a href="../series/">Series</a> / <span>The purchasing-intermediary ban: hospitals' hidden supply channel</span>
+§03c57ee Key points first
+§ec39d36 A purchasing intermediary (gannapsa) is a middleman that delivers medical supplies to hospitals on behalf of manufacturers.
+§c0770ab The Medical Devices Act amended in December 2025 bans sales to hospitals by related-party dealers. It takes effect on Dec 31, 2027.
+§64874a1 Related-party test: founder's relatives within the second degree, more than 50% ownership, or controlling influence over management.
+§9f31f1f Hospitals are selling their stakes in intermediaries before it takes effect. The channel is not closing; its owners are changing.
+§591da46 The way big hospitals buy supplies is changing.
+§46a86f7 This year, university hospitals' purchasing intermediaries are being sold one after another.
+§ddefce5 Here is why, and how it looks from the operating room.
+§bb552bb <i></i>From the stock chart
+§80fe470 Stents, catheters, artificial joints and surgical tools used in big hospitals' operating rooms mostly do not go straight from the manufacturer to the hospital.
+§ae12a5d They pass through an indirect supplier called a gannapsa, or purchasing intermediary.
+§5ca92a8 Each hospital effectively has one designated intermediary, and manufacturers or distributors must go through that door to get products in.
+§20c5d88 The problem was that the main shareholder of the intermediary was often the hospital foundation or relatives of the hospital's owner.
+§eb58474 So when the hospital bought supplies, people on the hospital's side took the middle margin.
+§3483cba The industry put that cut at 10–20%, sometimes as much as 40%, and called it a 'toll'.
+§82b67e6 Manufacturer · Importer
+§40117db Distributor
+§3eb5a1c Cut of 10–20%, up to 40%
+§48118fd Hospital · Operating room
+§39f58fc People on the hospital side were often the intermediary's main shareholders
+§e761a80 How surgical supplies reach the operating room. Graphic · Mednomics
+§a1680b9 The amended Medical Devices Act, passed by the National Assembly in December 2025, blocks this structure.
+§a3e621f Device dealers may not sell to hospitals with which they have a 'related-party' relationship. Routing sales through another company to get around it is also banned.
+§d9f2cd4 There are three related-party tests: relatives of the hospital founder within the second degree, ownership of more than 50%, or controlling influence over management regardless of ownership.
+§6d61fe6 Violations can lead to criminal penalties. The law takes effect on Dec 31, 2027.
+§ae24014 So hospitals are selling their stakes in intermediaries before then.
+§7cc2b44 Severance Hospital's intermediary, Avison Care, went in May to Ezmedicom, which is controlled by Daewoong Pharmaceutical's owner family.
+§93b7291 Two intermediaries linked to the Catholic Medical Center went in July to Serveone, a private-equity-owned company.
+§a2a24f4 Asan Medical Center has also put 51% of its intermediary, Medigood Partners, up for sale.
+§44b5ff4 One number captures the structure. Avison Care reportedly made KRW 21.6bn in operating profit on KRW 22.9bn of revenue last fiscal year.
+§66e459a <span class="hl">A company that keeps more than 90% of its revenue as profit is less a logistics firm than a fee window.</span>
+§d19aa70 <i></i>From the patient chart
+§1d75cf0 Surgeons choose which materials to use, but rarely know what they cost or whose hands they pass through.
+§eb346fc All a doctor sees is the hospital's approved materials list and what is laid out on the day of surgery.
+§e4a7e39 Even if you want to try a new instrument, it cannot reach the operating room unless it is on the hospital's purchasing list and the intermediary's route.
+§4e14d6b So for doctors, the intermediary problem is a problem of choice before it is a problem of price.
+§2cdf60b When the middle cut is large, big multinationals can absorb it, but small Korean manufacturers and distributors with thin margins give out first.
+§b0e9238 Even more so when payment is delayed by months. That is why the amended law also requires payment within six months, with interest on late payment.
+§ef2c609 News reports name only university hospitals, but this is not just their story.
+§b69a2d2 At the spine and joint specialty hospitals I have seen, the intermediary was often a company run by an acquaintance on the hospital's side.
+§a37809e But the law targets relatives, ownership and control. <span class="hl">A company owned and run separately by a close acquaintance may not be covered on paper.</span>
+§fb6c088 <i></i>Overlaying the two charts
+§b791375 The law does not abolish the intermediary channel. If the hospital side cuts its stake below 50%, business can continue.
+§c3886a6 <span class="hl">What is happening now is not the closing of the channel but a change of owner.</span>
+§39394fa Hospital foundations cash out by selling their stakes; private equity and large distributors gain university hospitals as reliable customers.
+§81ccc5a On this trend, some 80 intermediaries nationwide are likely to consolidate into a few large operators.
+§fd2cc12 If they become companies that earn money from purchasing, logistics and inventory services, like US group purchasing organizations (GPOs), both hospitals and manufacturers could gain.
+§79d80ed On the other hand, bigger intermediaries become more powerful buyers in dealings with manufacturers.
+§1ba402c People in the field also point out that the rules could be dodged by adjusting stakes or by hospitals using each other's intermediaries.
+§0384650 What to watch
+§04934d6 Who ends up with Asan Medical Center's Medigood Partners
+§7ddaddd Whether larger intermediaries add logistics and inventory services or simply keep collecting fees
+§af1aeef How well the enforcement decree and the health ministry's audits stop workaround deals
+§8c4c572 Whether small Korean device makers actually get paid faster
+§2b87b89 In one line
+§f2b34c3 The law changes the channel's owner rather than abolishing it. Whether the 'toll' is gone will show not in the news but in whether the shelves in the operating room carry a wider range of supplies.
+§ae2ce92 Frequently asked questions
+§868623f What is a purchasing intermediary (gannapsa)?
+§e70a8d6 An indirect supplier that receives medical supplies from manufacturers or distributors and delivers them to hospitals on their behalf. Many hospitals effectively had one designated intermediary.
+§eb9f557 When does the intermediary ban take effect?
+§c00c19e The amended Medical Devices Act, passed in December 2025, takes effect on Dec 31, 2027.
+§c640c4f Will intermediaries disappear once the law takes effect?
+§6c09e46 No. The law blocks related-party deals, such as those involving the founder's relatives or more than 50% ownership. If the hospital side lowers its stake, business can continue, so what is happening now is a change of owner rather than the closing of the channel.
+§a3f66a9 <b>Sources</b><br>Hankyung, "Shake-up in hospital logistics… dozens of intermediaries up for M&amp;A" (Jul 22, 2026) · BizHankook, reports on Ezmedicom's SPC for the Avison Care deal · Medical Times, "Why the amended Medical Devices Act bans related-party deals" (Jan 19, 2026) · Kormedi, report on a follow-up forum on the amendment · Medical Daily, reports on intermediaries' stake sales (all in Korean)<br>This article is industry commentary based on public reports and is not a recommendation to buy or sell any company's shares.
+§af5a014 First published 2026-10-31 · Last updated 2026-11-03. Errors are corrected here as soon as they are confirmed.
+§ca1f11d <b>Terms in this article</b><a class="chip" href="../glossary.html#간납사">Purchasing intermediary</a><a class="chip" href="../glossary.html#특수관계인">Related party</a><a class="chip" href="../glossary.html#GPO">GPO</a><a class="chip" href="../glossary.html#캡티브 마켓">Captive market</a>
+§c1cde49 <b>Related tracker</b><a class="chip" href="../trackers/gannapsa-ma.html">Purchasing-intermediary M&amp;A tracker</a>
+§c468a0a Read next
+§9a94f9d How a hospital grew a drugmaker: Sungsim Hospital and Samchundang Pharm
+§1930b07 A hospital foundation, the distributor that supplies its drugs, and the drugmaker that distributor controls. Tracing the roots of Samchundang Pharm, which shook KOSDAQ in 2026.
+§dc9ad5e <a href="prologue.html"><small>Previous</small>Starting the series: why two charts</a><a class="r" href="ep02-samchundang.html"><small>Next</small>How a hospital grew a drugmaker: Sungsim Hospital and Samchundang Pharm</a>
+§2238865 You are here
+§7570123 Supply route for surgical materials from manufacturer through distributor and purchasing intermediary to the hospital operating room
+§0d4878b Hospital money
+§b737edd Series
+§49bc10c EP.02 How a hospital grew a drugmaker: Sungsim Hospital and Samchundang Pharm · Mednomics
+§ccd27b8 Two Charts · EP.02 · <span class="tag">Hospitals &amp; pharma</span> · <time datetime="2026-11-01">Nov 1, 2026</time> · 4 min read
+§1555fa4 A drugmaker grew out of a hospital founded by one doctor. The market is now pricing whether that drugmaker can grow without the hospital.
+§10c8af2 <a href="../">Home</a> / <a href="../series/">Series</a> / <span>How a hospital grew a drugmaker: Sungsim Hospital and Samchundang Pharm</span>
+§b28ee84 Chairman Yoon Dae-in, second son of Sungsim Hospital founder Dr. Yoon Duk-sun, bought Samchundang Pharm in 1986, creating a hospital–distributor–drugmaker structure.
+§fb07d8e Unlisted Soha is Samchundang's largest shareholder (about 31%). Soha is owned 56.52% by Chairman Yoon Dae-in and 43.48% by Insan MTS.
+§cb64705 Samchundang's share price rose from about KRW 230,000 at the end of 2025 to over KRW 1m in three months, yet its 2025 operating profit was KRW 8.5bn.
+§1346ff8 The exchange designated it an unfaithful-disclosure company for failing to file its earnings guidance (5 penalty points).
+§3e2ed4d Last time we looked at the channel hospitals buy through: purchasing intermediaries.
+§df1dcf0 This time we see how that channel grew into a drugmaker within one family.
+§1265c2d The classic case is Kangdong Sacred Heart (Sungsim) Hospital and Samchundang Pharm.
+§8e86388 <i></i>Roots: hospitals founded by one doctor
+§fb054c1 The Sungsim group traces back to surgeon Dr. Yoon Duk-sun, who set up the Sungsim Medical Foundation in 1974 and the Ilsong educational foundation in 1982.
+§e6ddcb5 He founded Kangnam, Chuncheon and Kangdong Sacred Heart hospitals in turn and is regarded as the doctor who founded the most hospitals in Korea.
+§fef31a3 The hospitals were passed down along two lines.
+§0029247 The eldest son, Yoon Dae-won, ran the Ilsong foundation from 1989, leading the Sacred Heart hospitals of the Hallym University Medical Center. He died in 2024.
+§9f41ce5 The second son, Chairman Yoon Dae-in, inherited the Sungsim Medical Foundation and Kangdong Sacred Heart Hospital.
+§33deada In 1986 he <span class="hl">bought Samchundang Pharm and built a business that supplies drugs to the foundation's hospitals.</span>
+§5e53efe <i></i>Trunk: a drugmaker grown beside the hospital
+§9bb2ce6 At the center is an unlisted company called Soha.
+§f134c77 Soha was reported in the early 2000s as a supplier of drugs to the Hallym University Medical Center. Its 2004 revenue was KRW 88.1bn.
+§65a3a45 Soha was also Samchundang's largest shareholder with 42.5%, and Soha's largest shareholder was Chairman Yoon Dae-in.
+§3c7f191 <span class="hl">People on the hospital side owned the company that supplied the drugs, and that company in turn owned a drugmaker.</span>
+§6ac974b The skeleton is the same today. Soha is Samchundang's largest shareholder (about 31%); Soha is owned 56.52% by Chairman Yoon Dae-in and 43.48% by Insan MTS, a company wholly owned by his eldest son, Yoon Hee-je.
+§d5076b0 Analysts say management sits with CEO Jeon In-seok, the son-in-law, while control rests with father and son.
+§2205f45 A market built on reliable, captive customers is called a 'captive market'. Critics have called it funneling business to affiliates.
+§5063a5a <i></i>The 2026 stock chart
+§33e8c41 This company shook the market this year.
+§4bea59c The share price went from about KRW 230,000 at the end of 2025 to over KRW 1m in three months, making it KOSDAQ's largest company with a KRW 26tn market cap.
+§343eb1a The catalyst was hope around oral insulin (the S-PASS platform) and generic deals for oral diabetes and obesity drugs.
+§21b2cd2 Yet 2025 revenue was KRW 231.8bn and operating profit KRW 8.5bn. <span class="hl">A company with under KRW 10bn in operating profit ranked around 30th by market cap among all listed companies.</span>
+§d204dd6 After a US deal was announced in late March without naming the partner, doubts grew and the share price halved within three days.
+§e533b27 The exchange designated it an unfaithful-disclosure company for releasing earnings guidance only in a press release, not a filing (5 penalty points).
+§834e6fb Around the same time, the former CEO planned and then withdrew a KRW 250bn share sale to pay tax on shares gifted by his father-in-law.
+§d1290d8 To be used in a big hospital, a drug must first pass an internal committee and be added to the hospital formulary.
+§5ddc502 Once on the formulary, prescriptions come steadily, and drugs started during a stay tend to continue as outpatient prescriptions after discharge.
+§3a71aeb So for drugmakers, a big hospital is not just a customer but the first gate into the market.
+§0bd9a0b <span class="hl">If a company from the same family stands beside that gate, it starts from a different line.</span>
+§0954828 Still, today's share price cannot be credited to the hospital. What the market is buying is not hospital supply revenue but a future built on oral insulin.
+§a0a53d5 Last episode's intermediary ban comes up again here.
+§76cc505 The amended Medical Devices Act blocks deals with related-party dealers, such as the founder's relatives within the second degree or holders of more than 50%. The Pharmaceutical Affairs Act already has a similar rule for drugs.
+§5b3793c The person who runs a hospital foundation, a distributor owned by him and his son, and a drugmaker whose largest shareholder is that distributor. <span class="hl">On structure alone, it resembles what the amended law targets.</span>
+§946900b Whether the law actually applies depends on what each company sells to which hospital and how the enforcement decree defines related parties. It is not something to state as fact.
+§547b3ef Still, with the law taking effect at the end of 2027, how the group reorganizes the ownership and dealings of Soha and Insan MTS is worth watching.
+§fd2d901 European Phase 1 results for oral insulin, and whether Phase 2 is approved
+§a7c99f6 Whether ownership of Soha and Insan MTS and their hospital dealings change
+§252bacd How the arrangement of management by the son-in-law and control by the eldest son is resolved
+§a2b7a7b Whether the company regains market trust after the disclosure controversy
+§0a74d7d A drugmaker that grew on the reliable customer base of a hospital is now valued on hopes for a single new drug. Its roots are in the patient chart; its share price hangs on a chart of the distant future. The distance between the two charts is this company's risk.
+§d974a13 What does 'a hospital growing a drugmaker' mean?
+§c44bb8e People on the hospital foundation's side own the distributor that supplies drugs, and that distributor becomes the drugmaker's largest shareholder. Since big hospitals are a drugmaker's first gate into the market, the starting line is different.
+§47c6d8f Can Samchundang's share price be credited to the hospital?
+§3258eb1 No. What the market recently priced was not hospital supply revenue but hopes for oral insulin and generic oral diabetes and obesity drugs. 2025 revenue was KRW 231.8bn and operating profit KRW 8.5bn.
+§f9a56fb Does the amended Medical Devices Act apply to this structure?
+§14dd051 It cannot be said for certain. It depends on what each company sells to which hospital and how the enforcement decree defines related parties.
+§bfcd2d0 <b>Sources</b><br>Dealsite, "Samchundang's succession equation stirs" (Apr 27, 2023) · Dealsite, "Samchundang's Soha-centered governance: son-in-law manages, father and son control" (Apr 3, 2026) · Smart Today, "Stingy-dividend Samchundang becomes KOSDAQ's No. 1" (Mar 20, 2026) · Smart Today, reports on CEO Jeon In-seok's planned and withdrawn share sale (Mar 25 and Apr 6, 2026) · Dailian, "Operating profit KRW 8.5bn, market cap No. 1 on KOSDAQ" (Mar 25, 2026) · Newsis, "Controversies, lawsuits, press conference: what is happening at Samchundang?" (Apr 3, 2026) · Dealsite, "Samchundang accepts exchange ruling" · Dailypharm, reports on Soha's results (2003, 2005) · Metro, reports on Dr. Yoon Duk-sun and Chairman Yoon Dae-won · Medigate News, Kangdong Sacred Heart Hospital's 40th anniversary (Oct 25, 2026) (all in Korean)<br>This article is industry commentary based on public reports and is not a recommendation to buy or sell any company's shares.
+§f86b4bd First published 2026-11-01 · Last updated 2026-11-03. Errors are corrected here as soon as they are confirmed.
+§d0d3d1c <b>Terms in this article</b><a class="chip" href="../glossary.html#캡티브 마켓">Captive market</a><a class="chip" href="../glossary.html#특수관계인">Related party</a><a class="chip" href="../glossary.html#불성실공시법인">Unfaithful disclosure designation</a><a class="chip" href="../glossary.html#기술이전·마일스톤">Licensing and milestones</a>
+§68b78da Why university hospitals' purchasing intermediaries are up for sale ahead of the amended Medical Devices Act at the end of 2027. The channel stays; only the owner changes.
+§86d67c8 <a href="ep01-gannapsa.html"><small>Previous</small>The purchasing-intermediary ban: hospitals' hidden supply channel</a><a class="r" href="ep03-mbk-healthcare.html"><small>Next</small>Why private equity bought drug distribution and dental implants</a>
+§3cbc81e EP.03 Why private equity bought drug distribution and dental implants · Mednomics
+§1ba708c Two Charts · EP.03 · <span class="tag">Capital &amp; healthcare</span> · <time datetime="2026-11-02">Nov 2, 2026</time> · 4 min read
+§a89d7fe In two years MBK bought implants, intraoral scanners, drug distribution and a Japanese energy-tonic maker. What they share is demand that does not switch off when people are sick, old or tired.
+§3de77c6 <a href="../">Home</a> / <a href="../series/">Series</a> / <span>Why private equity bought drug distribution and dental implants</span>
+§8565d69 MBK bought Medit (signed Dec 2022, about KRW 2.4tn), Osstem Implant (2023, about KRW 2.5tn), Geo-Young (Apr 2024, 71.25% of the holding company for KRW 1.95tn) and Alinamin Pharmaceutical (Jul 2024, JPY 350bn).
+§ff53cb5 Geo-Young deals with about 80% of Korea's pharmacies, yet its 2025 consolidated operating margin was under 2% (revenue KRW 5.35tn, operating profit KRW 103.6bn).
+§50a0f06 Geo-Young's holding company carried out a KRW 274.6bn paid capital reduction in July 2024, and reports say its debt ratio jumped from 506% to 1,600%.
+§a6231ce Care Camp, Samsung Medical Center's main purchasing intermediary, is a Geo-Young affiliate.
+§b35642a The last two episodes followed money from the hospital side.
+§0969689 This time we look at the other side: the capital buying into healthcare.
+§22e728c We follow the companies bought over two years by MBK Partners, Korea's largest private equity firm.
+§fccfa9c <i></i>From the stock chart: what it bought
+§983390a In 2023 MBK, together with Unison Capital Korea (UCK), acquired Osstem Implant, Korea's No. 1 implant company.
+§84b6aaf It was shaken at the time by an employee's embezzlement of more than KRW 200bn. Part of the founder's stake and minority shares were bought at the same price (KRW 190,000 a share) through a tender offer.
+§522e943 Two tender offers took the stake above 96%, and the company was delisted in August 2023. The deal was reported at about KRW 2.5tn.
+§4781576 Earlier, in December 2022, MBK signed to buy 99.5% of intraoral scanner maker Medit for about KRW 2.4tn, putting implants and digital dental equipment in one hand.
+§38eed10 In April 2024 it bought Geo-Young, Korea's largest drug distributor, from Blackstone: 71.25% of the holding company for KRW 1.95tn, valuing the whole at about KRW 2tn.
+§7b12a68 Blackstone had bought Geo-Young in 2019 for about KRW 1.1tn. <span class="hl">Its price nearly doubled in five years.</span>
+§e72e770 In July that year it bought Japan's Alinamin Pharmaceutical, also from Blackstone, for JPY 350bn (about KRW 2.9tn). It makes Alinamin, Japan's best-known energy tonic, and was once Takeda's consumer health unit.
+§473ff00 MBK Partners
+§aba9055 Dental
+§5c4e5cb Osstem Implant · 2023
+§ceeab24 No. 1 in implants · with UCK, about KRW 2.5tn
+§40b6e5f Medit · 2022–23
+§c9844b5 Intraoral scanners · about KRW 2.4tn
+§2bca159 Drug distribution
+§6ce7da3 Geo-Young · 2024
+§fd94e90 Deals with about 80% of pharmacies · equity value about KRW 2tn
+§7c552bd OTC drugs · Japan
+§eafbc5c Alinamin Pharmaceutical · 2024
+§ed8a082 Energy tonic 'Alinamin' · JPY 350bn
+§e87fb41 MBK Partners' main healthcare acquisitions (2023–2024). Amounts as reported. Graphic · Mednomics
+§2ebfe63 <i></i>Why it bought: the private equity math
+§5230957 Private equity buys companies with other people's money and borrowed money, then sells them for more a few years later.
+§4365b8f To repay the borrowing, it needs cash that comes in reliably every year.
+§8372490 Healthcare fits that well. <span class="hl">In a downturn people still need medicine, missing teeth still need replacing, and tired people still buy vitamins.</span>
+§14d9759 Indeed, MBK raised KRW 900bn in acquisition financing to buy Geo-Young, a structure made possible by steady cash flow.
+§1f2fe79 Second is the 'channel'. Geo-Young deals with about 80% of pharmacies nationwide: it owns the highway that drugs travel on.
+§4341bcf But distribution margins are thin. <span class="hl">Geo-Young's 2025 consolidated operating margin was under 2%:</span> KRW 103.6bn of operating profit on KRW 5.35tn of revenue.
+§82ff411 Third is bundling. Owning both an implant maker and a scanner maker means more products to sell to each dental clinic. The industry calls this a 'bolt-on' strategy.
+§06e9307 Once doctors get used to a device, they rarely switch.
+§68c956c Artificial joints in orthopedics, too, differ in instruments and steps by company, so surgeons tend to stick with the system they first learned.
+§9759f87 That is why device companies invest heavily in training doctors. Osstem Implant's growth in clinical education can be seen the same way.
+§dff14ff <span class="hl">A doctor who is used to a system does not leave easily. To private equity, that looks like predictable revenue.</span>
+§f642e7b Drug distribution is almost invisible to doctors most of the time. It shows when drugs run out, and that is when the power of whoever holds the network becomes clear.
+§de42965 And there is a link to last time: Care Camp, Samsung Medical Center's main purchasing intermediary, is a Geo-Young affiliate.
+§bee44b6 With university hospitals' intermediaries flooding the market, a distributor that already handles hospital logistics is well placed.
+§27e867f The private equity formula is usually similar: buy with debt, raise efficiency, take some money back along the way, sell for more.
+§b3eb4ea Right after the deal, in July 2024, Geo-Young's holding company carried out a KRW 274.6bn paid capital reduction. Observers said MBK recovered about KRW 200bn in the process.
+§0ccce7a Over the same period, reports said the holding company's debt ratio jumped from 506% at the end of 2023 to 1,600% at the end of 2024, drawing criticism that its finances had worsened.
+§31ea7a5 The same formula has also failed. Homeplus, which MBK bought with heavy debt, entered court receivership in 2025.
+§d8f8f46 The difference is the nature of demand. Supermarkets swing with competition and the economy; medicine and treatment do not shrink easily. That is why healthcare appeals to private equity.
+§e4b7a11 But <span class="hl">at the end of this cash flow is the patient.</span> If cost-cutting goes too far and drug supply wobbles or device prices rise, the burden falls on patients and national insurance.
+§f27c845 Whether Geo-Young buys any of the university hospital intermediaries for sale
+§2f275ad When, for how much and how (relisting or sale) MBK exits Osstem Implant and Medit
+§bece4f8 Whether Alinamin Pharmaceutical expands into Korea and Asia
+§4f2f6ce How MBK's financing and reputation after Homeplus affect its other healthcare investments
+§a4e811b Private equity buys healthcare for a simple reason: sick people buy medicine, missing teeth get replaced, tired people take vitamins. Debt can be stacked on demand that never switches off. What sets it apart from other industries is that the owners of that demand are patients.
+§b36c66e What did MBK Partners buy in healthcare?
+§349dd7a Dental intraoral scanner maker Medit, No. 1 implant maker Osstem Implant, No. 1 drug distributor Geo-Young, and Japan's Alinamin Pharmaceutical.
+§da429dd Why does private equity like healthcare?
+§4fd5ec4 Cash comes in steadily every year regardless of the economy, which makes debt easier to repay, and there are barriers to entry such as drug distribution networks and doctors' device habits.
+§e961494 What happened after the Geo-Young deal?
+§5a7f688 Right after the deal, in July 2024, the holding company carried out a KRW 274.6bn paid capital reduction, and reports said its debt ratio rose sharply.
+§69e7ccb <b>Sources</b><br>Asia Economy, "MBK Partners buys Japanese drugmaker Alinamin for KRW 3tn" (Jul 2, 2024) · The Fact, "Is MBK doubling down on healthcare? Why it bet KRW 3tn on a Japanese drugmaker" (Jul 6, 2024) · Dealsite, "MBK becomes Geo-Young's largest shareholder, buying Blackstone's stake" (Apr 22, 2024) · Dailypharm, "Geo-Young changes hands: MBK buys it for KRW 2tn" · Dealsite, report on Geo-Young acquisition financing · Sidae Ilbo, report on Geo-Young's capital reduction (Apr 2025) · Dailypharm, "Geo-Young's cash up sevenfold in a year" · Aju Business Daily, "MBK–Unison consortium to take control of Osstem Implant" (Jan 26, 2023) · SBS Biz, report on Osstem Implant's delisting · Asia Economy, "MBK buys Geo-Young at a KRW 2tn valuation" (Apr 22, 2024) · Hankyung, report on intermediary M&amp;A (Jul 22, 2026) (all in Korean)<br>This article is industry commentary based on public reports and is not a recommendation to buy or sell any company's shares.
+§78bbe93 First published 2026-11-02 · Last updated 2026-11-03. Errors are corrected here as soon as they are confirmed.
+§224fa61 <b>Terms in this article</b><a class="chip" href="../glossary.html#유상감자">Paid capital reduction</a><a class="chip" href="../glossary.html#인수금융">Acquisition financing</a><a class="chip" href="../glossary.html#볼트온">Bolt-on</a><a class="chip" href="../glossary.html#공개매수">Tender offer</a><a class="chip" href="../glossary.html#간납사">Purchasing intermediary</a>
+§3d0cd3c <b>Related trackers</b><a class="chip" href="../trackers/gannapsa-ma.html">Purchasing-intermediary M&amp;A tracker</a><a class="chip" href="../trackers/mbk-healthcare.html">MBK healthcare deals tracker</a>
+§38bb371 <a href="ep02-samchundang.html"><small>Previous</small>How a hospital grew a drugmaker: Sungsim Hospital and Samchundang Pharm</a><a class="r" href="ep04-glp1-knee.html"><small>Next</small>The obesity drug three-way race and the economics of knees: Wegovy, Mounjaro, efpeglenatide</a>
+§b5d4979 Map of MBK Partners' healthcare acquisitions
+§824b207 EP.04 The obesity drug three-way race and the economics of knees: Wegovy, Mounjaro, efpeglenatide · Mednomics
+§6bef373 Two Charts · EP.04 · <span class="tag">Drugs &amp; bio</span> · <time datetime="2026-11-02">Nov 2, 2026</time> · 5 min read
+§0783918 Mounjaro overtook Wegovy and Korea's own efpeglenatide has joined. Nobody yet knows whether obesity drugs will shake the knee surgery market.
+§a9ed8d4 <a href="../">Home</a> / <a href="../series/">Series</a> / <span>The obesity drug three-way race and the economics of knees: Wegovy, Mounjaro, efpeglenatide</span>
+§e18649a IQVIA data for Q2 2026: Mounjaro KRW 421.2bn, Wegovy KRW 113bn. A gap of about 3.7 times.
+§32d71fb Korea's first home-grown obesity drug, efpeglenatide (Hanmi Pharmaceutical), was approved on Oct 7, 2026, with supply starting Oct 29.
+§a950eee Wegovy applied for national insurance coverage on Oct 12, and the government is reviewing 'managed coverage' for obesity drugs.
+§afce326 STEP 9 (NEJM 2024): 68 weeks of semaglutide cut pain scores by 41.7 points versus 27.5. The placebo group also improved a lot.
+§0469a28 Leadership of Korea's obesity drug market flipped within a year.
+§850978c Efpeglenatide, the first Korean-made obesity drug, also started being prescribed this week.
+§e0c02b8 The numbers are already in. The knee is still a hypothesis. We look at them separately.
+§cfaa555 <i></i>From the stock chart: market numbers
+§11f2220 Wegovy launched in Korea in October 2024 and Mounjaro in August 2025.
+§ea9ecde Data from IQVIA put first-half 2026 sales at about KRW 744bn for Mounjaro and KRW 217bn for Wegovy, more than KRW 960bn combined.
+§66c3f5e By quarter: Q1 Mounjaro KRW 323.2bn vs Wegovy KRW 104bn; Q2 KRW 421.2bn vs KRW 113bn. The gap widened to about 3.7 times.
+§eee2665 Wegovy
+§028b895 Mounjaro (KRW 100m)
+§0413c19 Quarterly sales of Wegovy and Mounjaro (IQVIA, KRW 100m). Earlier quarters are revised slightly between reports. Graphic · Mednomics
+§e608e19 <span class="hl">Mounjaro alone sold more than twice as much in Q2 as the cancer drug Keytruda (KRW 149.8bn).</span> It is the No. 1 drug in Korea.
+§1832992 Wegovy cut its supply price by about 40% when Mounjaro arrived. Even so, Q2 sales fell 18.4% from a year earlier, though they rose 8.6% from the previous quarter, ending two straight quarters of decline.
+§f0dc5e3 On Oct 7, Hanmi Pharmaceutical's efpeglenatide was approved by the drug safety ministry, the 45th new drug developed in Korea and the first Korean obesity drug. Supply began on Oct 29.
+§6627a8c Efpeglenatide's first-month price is KRW 129,800 including VAT, rising to KRW 299,200 from the fourth month. Wegovy and Mounjaro were reported at over KRW 200,000 for four weeks of the lowest dose.
+§dc28ab4 In the Korean Phase 3 trial (448 people, 40-week interim results), efpeglenatide cut weight by 9.75% on average versus 0.95% for placebo; 79.4% lost at least 5% and 49.5% at least 10%.
+§84be2fe But this is a 40-week interim analysis of a 64-week trial, while Wegovy and Mounjaro data are from 68–72 weeks, and there is no head-to-head trial. <span class="hl">Current data cannot rank the three drugs.</span>
+§1a1ba5c On Oct 12, Novo Nordisk applied for insurance coverage of Wegovy. At the Oct 28 parliamentary audit, Health Minister Jeong Eun-kyeong said the government is reviewing putting obesity drugs such as Wegovy and Mounjaro under 'managed coverage'.
+§4c62f01 Eligibility, the obesity threshold and the co-pay have not been set. <span class="hl">The coming question is not price but who pays how much.</span>
+§7914b3a <i></i>From the patient chart: the knee
+§bc467c0 The most common advice for knee arthritis patients is 'lose some weight'.
+§d8e0069 More than 3 million people a year are treated for knee arthritis (2024, NHIS data). Total knee replacements reached 78,300 in 2025, up 5.2% from 2021.
+§853fa7e More than 80% of artificial knee joints used are imported: 82.6% in 2025.
+§b795140 That is why the STEP 9 trial, published in NEJM in October 2024, drew attention. It tested whether an obesity drug also helps knee pain.
+§68eaf0d It enrolled 407 people with a BMI of 30 or more, moderate knee osteoarthritis and at least moderate pain, randomized 2:1 to semaglutide 2.4 mg or placebo for 68 weeks.
+§5ebdd3a Weight fell 13.7% versus 3.2%, and pain scores (WOMAC, 0–100) fell 41.7 points versus 27.5. Physical function scores improved about twice as much.
+§38ceabb Three cautions in reading the numbers.
+§ce23a3f <span class="hl">First, pain also fell 27.5 points in the placebo group.</span> Diet and exercise counseling alone had a big effect; the drug added about 14 points.
+§331f2db Second, the average BMI was 40.3, 81.6% were women and the average age was 56. That is a different group from the typical knee patient in a Korean outpatient clinic.
+§5597754 Third, 6.7% stopped treatment due to side effects, more than double the 3.0% on placebo, mostly gastrointestinal. There is no long-term data yet.
+§a408a29 An earlier trial of liraglutide 3.0 mg, from the same drug class, showed no difference in pain. Not every drug in this class is the same.
+§1755d1e Semaglutide is approved for obesity and diabetes, not as an osteoarthritis treatment.
+§9e3dff4 In March, Cell Metabolism published a mouse study showing changes in cartilage cell metabolism even without weight loss. In an exploratory study of 20 people, MRI after 24 weeks showed medial knee cartilage about 17% thicker on average.
+§f7f7fdc The researchers themselves urged caution given the small size. <span class="hl">It is a hypothesis.</span>
+§10fae54 There is one question: will obesity drugs reduce knee surgery?
+§9f99162 The numbers cannot answer it yet. All we can confirm is that the five-year trend in knee replacements is still rising after obesity drugs arrived.
+§74f45c4 The hypotheses cut both ways. Less pain before surgery could delay operations. Or severely obese patients who could not be operated on because of their weight could become candidates.
+§5d405fa Either way, with more than 80% of artificial joints imported, foreign manufacturers will feel any change in demand first.
+§c0cc98c The cost structures also differ. Obesity drugs are now uninsured and cost hundreds of thousands of won a month, while surgery is covered by insurance. If the drugs are covered, the question becomes whether the insurance fund can afford it.
+§9a8497a One thing is clear. When drugs take weight off, muscle tends to go too. Experts recommend weight management together with thigh-strengthening exercise for the knees.
+§e911445 Results of Wegovy's coverage review and the criteria for managed coverage (BMI, comorbidities)
+§f5d3dca How much share efpeglenatide takes in the Q3 IQVIA data
+§cb16e06 Whether any obesity drug trial is run in Korean knee arthritis patients
+§9c33369 How weight and pain change after stopping the drug
+§8e70d71 Changes in the number of knee replacements after obesity drugs launched
+§e9180fb The obesity drug market is visible in numbers; the knee market is still a hypothesis. Telling numbers from hypotheses is how to read two charts.
+§e63df70 Which sells more in Korea, Mounjaro or Wegovy?
+§2295dcc By IQVIA data for Q2 2026, Mounjaro sold about KRW 421.2bn and Wegovy about KRW 113bn, so Mounjaro sold about 3.7 times as much.
+§fb5829b Do obesity drugs help knee osteoarthritis?
+§67846ad In the STEP 9 trial of semaglutide, weight and knee pain fell more than with placebo. But pain also fell a lot on placebo, participants were severely obese, and the drug is not approved for osteoarthritis.
+§1f291d8 Will obesity drugs reduce knee replacements?
+§63861f8 We don't know yet. Surgery could be delayed, or more patients could become eligible. It is still a hypothesis.
+§89dcdc5 <b>Sources</b><br>Dailypharm, "One year in Korea: Mounjaro nears KRW 1tn in cumulative sales" (Aug 1, 2026) · My Daily, "The new obesity drug landscape (1): one in ten adults has tried them" (Oct 21, 2026) · iNews24, "Hanmi's efpeglenatide finally arrives" (Oct 26, 2026) · Financial News, efpeglenatide approval report (Oct 7, 2026) · Medical Times and YTN, Wegovy coverage application reports (Oct 12, 2026) · Medigate News, "[2026 audit] Will Wegovy and Mounjaro get managed coverage?" (Oct 28, 2026) · SBS Biz, "Over 80% of artificial knee joints imported" (Sep 14, 2026) · Herald Economy, knee replacement statistics (Oct 21, 2025) · Bliddal H, et al. N Engl J Med 2024;391:1573-1583 (STEP 9) · Kormedi, report on semaglutide and cartilage metabolism (Cell Metabolism, Mar 3, 2026) · Media Pen, reports on Korean obesity drugs (Oct 11–13, 2026) (Korean sources unless noted)<br>This article is industry commentary based on public reports and is not a recommendation to buy or sell any company's shares.
+§69a9209 <b>Terms in this article</b><a class="chip" href="../glossary.html#관리급여">Managed coverage</a><a class="chip" href="../glossary.html#급여 등재">Reimbursement listing</a><a class="chip" href="../glossary.html#WOMAC">WOMAC</a><a class="chip" href="../glossary.html#비급여">Uninsured care</a>
+§4cafc47 <b>Related tracker</b><a class="chip" href="../trackers/glp1-korea.html">Obesity drug market tracker</a>
+§c94e1e5 <a href="ep03-mbk-healthcare.html"><small>Previous</small>Why private equity bought drug distribution and dental implants</a><a class="r" href="ep05-aesthetic-doctors.html"><small>Next</small>Doctors leaving the operating room: from plastic surgery to dermatology, and the on-call crunch</a>
+§80445ab Quarterly Korean sales of Wegovy and Mounjaro (IQVIA)
+§b9cbb7b EP.05 Doctors leaving the operating room: from plastic surgery to dermatology, and the on-call crunch · Mednomics
+§a4292ad Two Charts · EP.05 · <span class="tag">Doctors &amp; money</span> · <time datetime="2026-11-03">Nov 3, 2026</time> · 4 min read
+§419919f In Apgujeong and Sinsa, plastic surgery revenue fell while dermatology and urology rose. Doctors' career paths are shifting. The link to the hospital on-call hiring crunch is still a hypothesis.
+§38565f6 <a href="../">Home</a> / <a href="../series/">Series</a> / <span>Doctors leaving the operating room: from plastic surgery to dermatology, and the on-call crunch</span>
+§ff095d8 July 2026 monthly revenue per clinic in Apgujeong: plastic surgery KRW 149.8m (-1.3%), dermatology and urology KRW 222.27m (+6.2%). In Sinsa, plastic surgery -10.3%, dermatology and urology +15.6%.
+§df21074 Last year 1.313 million foreign patients came for dermatology (62.9%) and 233,000 for plastic surgery (11.2%).
+§0b89ef3 Of 3,319 solo clinics in Seoul advertising dermatology, 385 (11.6%) have a board-certified dermatologist.
+§00bf7c6 Local revenue is clinic revenue, not doctors' income. The link to the hospital on-call crunch is a hypothesis with no official data.
+§69af1b7 Reports say more board-certified plastic surgeons are moving into dermatology procedures.
+§4890454 In the field, we also often hear how hard it is for general hospitals to find on-call doctors.
+§a91856f We check whether the two stories connect, separating what the numbers confirm from what they don't.
+§93bd190 <i></i>From the stock chart: where the money goes
+§9e11cf3 Local business data from the Small Enterprise and Market Service show 88 plastic surgery clinics in Apgujeong-dong as of July 2026, down 4.3% from a year earlier. Average monthly revenue per clinic was KRW 149.8m, down 1.3%.
+§9c72829 Dermatology and urology clinics in Apgujeong-dong numbered 80, up 6.7%, with average monthly revenue of KRW 222.27m, up 6.2%.
+§84c2fc9 Sinsa-dong is clearer still. Plastic surgery clinics held at 157 but revenue fell 10.3% to KRW 195.75m. Dermatology and urology clinics rose 8.1% to 93, and revenue rose 15.6% to KRW 302.03m.
+§1815be2 Apgujeong
+§8f4f83e Sinsa
+§8ad05f2 Plastic surgery
+§8f251ad Dermatology &amp; urology (KRW 100m)
+§a3c8c22 Average monthly revenue per clinic in Apgujeong and Sinsa (July 2026, KRW 100m). Dermatology and urology are counted as one category. Data · Small Enterprise and Market Service (as reported). Graphic · Mednomics
+§a71031d <span class="hl">This is clinic revenue, not doctors' income.</span> It is before rent, payroll, equipment and advertising. These statistics alone cannot tell you what one doctor earns.
+§c9e8553 But the direction is clear. Aesthetic medicine, once centered on cosmetic surgery, is shifting to non-surgical procedures such as Botox, fillers, lasers and lifting, which the press calls 'petite' cosmetic procedures.
+§1ab058f The nature of demand has changed too. Double-eyelid and nose surgery is one-off, but skin care is repeated every few months. Analysts say regular care by middle-aged customers supports the market even as the population in their 20s and 30s shrinks.
+§80bfdf4 Most of these procedures are uninsured, so clinics set the prices. High patient turnover and repeat bookings make revenue easy to predict. That is what draws doctors.
+§6b9a409 There are dispute numbers too. Last year the Korea Medical Dispute Mediation and Arbitration Agency received 175 mediation or arbitration requests involving plastic surgery and 114 involving dermatology. Surgery carries the burden that an accident can mean permanent disability and large damages.
+§c850892 <i></i>From the patient chart: foreign patients
+§cbcf798 Health ministry data show 1.313 million foreign patients received dermatology care in Korea last year, 62.9% of all visits by specialty. Plastic surgery drew 233,000 (11.2%); dermatology was more than five times larger.
+§852b31c Korea Tourism Organization data show dermatology's share of foreign tourists' medical spending rose from 53.72% to 55.72% in January–September this year, while plastic surgery fell from 24.53% to 19.35%.
+§fc21d4f Many dermatologists I know opened in Apgujeong and see foreign patients. That points the same way as the numbers above.
+§452f85b Plastic surgery has not disappeared. A plastic surgeon I know told me his main patients are celebrities from Thailand and elsewhere in Southeast Asia. Where foreign demand is strong, there is still room for cosmetic surgery.
+§e87074e There are 3,319 solo clinics in Seoul registered with dermatology as a specialty offered. HIRA data show only 385 (11.6%) have a board-certified dermatologist. The rest are run by general practitioners, family physicians, plastic surgeons and other specialists.
+§90582d4 Becoming a board-certified plastic surgeon takes at least five years of surgical training: one year of internship and four of residency. The core of the reports is that more people are leaving those five years behind for procedure-based practice. One clinic in Seocho-dong was reported to have four plastic surgeons working as directors.
+§5ce05fa <i></i>Overlaying the two charts: hospital on-call duty
+§66d9f82 General hospitals often say it is hard to find on-call doctors these days, and the reason frequently given is that doctors have moved into skin and aesthetics.
+§7916ae3 <span class="hl">That part is not proven by these reports and statistics.</span> We could not find official data directly linking the number of doctors who moved to dermatology with gaps in hospital on-call cover. It is a perception in the field and a hypothesis.
+§d23ca54 The logic is understandable, though. On-call work means nights awake, while procedure-based outpatient work ends in the daytime and runs on bookings. With two options under the same license, doctors compare both time and income.
+§711631d When hospitals cannot find staff, they must raise on-call pay or cut night services. That cost lands on hospital profitability and on capacity for emergency and night care.
+§3688c45 The debate over doctors flowing from essential care into aesthetics is long-running. But it is tangled up with medical school quotas, fees and working conditions, so no single number settles it.
+§ae2b158 One thing remains for patients: most clinics with a dermatology sign do not have a board-certified dermatologist. You can check which specialty a doctor is certified in before a procedure.
+§e500320 Next year's clinic counts and revenue for plastic surgery versus dermatology and urology in Apgujeong and Sinsa
+§0d60e2c How the shares of dermatology and plastic surgery change in foreign patient statistics
+§151884b Whether official data emerge that directly show general hospitals' on-call staffing shortage
+§bea116d Debate over rules on how clinics advertising dermatology display their specialty
+§3b49b54 Whether procedure-related disputes rise along with the number of clinics
+§f84b729 Money in aesthetic medicine is moving from surgery to procedures, from one-off to subscription-like repeat visits. Whether this links to gaps in hospital on-call cover has no numbers to prove it yet.
+§12e7edf Why are plastic surgeons moving to dermatology?
+§a9bfb27 According to reports, procedures such as Botox, fillers and lasers need less in facilities and staff than surgery, have higher patient turnover and generate repeat revenue. Lower liability for surgical accidents is also cited.
+§4ff8ecc Are all clinics with a dermatology sign run by dermatologists?
+§92e03b6 No. Of 3,319 solo clinics in Seoul registered with dermatology as a specialty, 385 (11.6%) had a board-certified dermatologist.
+§ec929e4 Is the on-call hiring crunch in general hospitals caused by doctors leaving for aesthetics?
+§7d4a2d0 People in the field say so, but we could not find official data directly linking the two. It is still a hypothesis.
+§6186b08 <b>Sources</b><br>Hankyung, Woo Yeon-su, "'No more double eyelids or nose jobs': where even plastic surgeons are switching" (Nov 3, 2026), and data it cites from the Small Enterprise and Market Service, the health ministry, the Korea Tourism Organization's data lab, HIRA and the Korea Medical Dispute Mediation and Arbitration Agency (in Korean). Stories from the field are general accounts the author has heard and do not refer to specific people.<br>This article is industry commentary based on public reports and is not a recommendation to buy or sell any company's shares.
+§74e8978 First published 2026-11-03 · Last updated 2026-11-03. Errors are corrected here as soon as they are confirmed.
+§aa73eb3 <b>Terms in this article</b><a class="chip" href="../glossary.html#비급여">Uninsured care</a><a class="chip" href="../glossary.html#프티 성형">'Petite' cosmetic procedures</a>
+§596643c <b>Related tracker</b><a class="chip" href="../trackers/aesthetic-market.html">Aesthetic clinic tracker</a>
+§44fe8b3 <a href="ep04-glp1-knee.html"><small>Previous</small>The obesity drug three-way race and the economics of knees: Wegovy, Mounjaro, efpeglenatide</a><a class="r" href="ep06-doctor-family-dividend.html"><small>Next</small>KRW 148 in dividends per KRW 100 of drugs: were payouts to doctors' families kickbacks?</a>
+§b567539 Average monthly revenue per clinic for plastic surgery and for dermatology and urology in Apgujeong and Sinsa (July 2026)
+§c7f66c9 EP.06 KRW 148 in dividends per KRW 100 of drugs: were payouts to doctors' families kickbacks? · Mednomics
+§0c35e11 Two Charts · EP.06 · <span class="tag">Hospitals &amp; pharma</span> · <time datetime="2026-11-14">Nov 14, 2026</time> · 5 min read
+§64e01e3 A drug wholesaler 77.5% owned by family members of client hospital directors. The tax office saw the dividends as rebates; the Tax Tribunal saw ordinary dividends paid by share count. It was a tax ruling, not a clean bill of health.
+§283528e <a href="../">Home</a> / <a href="../series/">Series</a> / <span>KRW 148 in dividends per KRW 100 of drugs: were payouts to doctors' families kickbacks?</span>
+§7301272 About 77.5% of a drug wholesaler's shares (57 people) were held by spouses and children of directors of 15 client hospitals. Since 2013 it paid out 49.6% of net profit on average.
+§99d744d The tax office treated the dividends as rebates received by nine doctors (other income) and issued a notice of income reclassification.
+§999685c The Tax Tribunal (2025-Seo-3143, late October 2026) overturned it in full. Dividends ranged from KRW 4 to KRW 148 per KRW 100 of drug purchases, not in proportion to prescriptions, and 58% of revenue came from ordinary customers.
+§1c15cbc The ruling concerns the tax assessment only, not whether the Medical Service Act or the Pharmaceutical Affairs Act was broken. In 2025, rebates paid as dividends through a shell company led to criminal charges.
+§ef4f1d4 There was a drug wholesaler whose shares were more than three-quarters owned by spouses and children of directors of its client hospitals.
+§7c24ff8 The tax office saw the dividends as payment for using its drugs, in other words rebates. The Tax Tribunal ruled the opposite.
+§9e96122 We separate how the two bodies read the same numbers so differently.
+§d94c7d8 <i></i>From the stock chart: a wholesaler that pays big dividends
+§4880918 It is a wholesaler that supplies prescription drugs and medical devices to hospitals and pharmacies. The CEO started it as a sole proprietorship in 2001 and incorporated it in 2007.
+§9f0822c From 2010, the CEO began selling shares to client hospital directors and their families. By the end of that year his side held only 20%; the other 80% had gone to the directors' side.
+§649bbe3 Revenue roughly tripled the following year and kept growing after that.
+§b7d61a1 At the end of 2022, the shareholder register listed 57 spouses and children of client doctors, holding about 77.5% between them and linked to 15 hospitals. The company has more than 400 customers in all.
+§9321d73 Since 2013 the company paid out 49.6% of net profit on average every year, reportedly two to three times the average for listed companies.
+§7e678c0 The case begins with <span class="hl">a company that returned half of what it earned to shareholders every year</span>, most of whom were family members of client hospital directors.
+§e086da3 <i></i>From the clinic: between prescriptions and dividends
+§aec9e59 In August 2024 the Seoul Regional Tax Office audited the company and found a profit-and-loss file that broke out profit by hospital for just the 15 hospitals and their nearby pharmacies.
+§62dc968 The structure the tax office drew was simple: doctors prescribe, the company earns, and part of the earnings goes to doctors' families as 'dividends'.
+§94fee6d The Medical Service Act and the Pharmaceutical Affairs Act ban both giving and receiving money in return for using drugs. So the tax office concluded that families had been made shareholders and the payments wrapped as dividends.
+§c478107 Its evidence was timing: families bought shares around when a hospital started doing business and sold them before the register closed in the year after the business ended.
+§744ab44 It also pointed to stake adjustments. One hospital that brought the company less profit saw its stake cut from 5% to 2.5%. By the tax office's math, 20–50% of the profit generated by prescriptions in 2021 went back as dividends.
+§31df504 Other evidence included a shareholder's statement that the CEO introduced buyers and sellers, and share prices below the tax-law valuation. In 2023 a second company with a similar structure was set up, with minor children of client directors among its shareholders.
+§6526d49 The tax office treated the dividends as rebates received by nine doctors, classed as other income for tax purposes, and issued a notice of income reclassification ordering the company to withhold tax.
+§bf99d7d <i></i>Overlaying the two charts: dividends followed share counts
+§8bbb8d4 The company's rebuttal started with arithmetic. If these were rebates, hospitals that used more drugs should get more and those that used fewer should get less. At the very least, you cannot give back more than the drugs you sold.
+§de5cf79 The actual dividends did not fit. Taking a hospital's drug purchases as KRW 100, one director's family received KRW 4 in dividends and another KRW 148. <span class="hl">Some received more in dividends than the hospital spent on drugs.</span>
+§d44477b Dividends paid per KRW 100 of drug purchases
+§8c59d32 Drug purchases
+§7c9d04b KRW 100
+§dc01995 Lowest dividend
+§ea3a61e KRW 4
+§86e915a Highest dividend
+§199120f KRW 148
+§3d0e75b Where the company's revenue and gross profit came from
+§b1eff50 Ordinary customers 58%
+§abcdb44 Shareholder-linked 42%
+§93e5293 Shareholder-linked: the 15 hospitals tied to shareholders' families and their nearby pharmacies
+§212b86e Dashed line: equal to the drug purchases (KRW 100)
+§a603a82 The company argued that a rebate could hardly exceed the value of drugs sold (dashed line). Data · Tax Tribunal ruling (2025-Seo-3143), as reported by Edaily. Graphic · Mednomics
+§a14a2f8 Dividends are paid by the number of shares held, not by prescriptions. So the company argued this money was dividends, not rebates.
+§3178cc3 Shareholders said they bought shares with their own money and paid gift tax where the money came from parents or spouses. Some hospitals' families bought shares as long as five years and ten months after business began.
+§668423b The company also argued that profit analysis by customer is something every wholesaler does, and noted that the tax office changed its legal reasoning between the objection and the appeal stages.
+§0fea232 In late October 2026, the Tax Tribunal (2025-Seo-3143) overturned the tax office's notice in full.
+§32c2584 The tribunal's test: to treat a transaction as a sham, the tax office must prove it was arranged to avoid tax. A rebate requires a visible causal link, 'paid because they prescribed', but the dividends were paid by share count regardless of prescriptions or sales.
+§68f30a6 58% of the company's revenue and gross profit came from ordinary customers, not hospitals or pharmacies linked to shareholders. Nor was there evidence that profit had been channeled to particular shareholders.
+§9492e25 So it ruled that <span class="hl">labeling the payments rebates simply because the shareholders were doctors' families stretched the substance-over-form principle too far.</span>
+§7a12916 <i></i>Same dividends, different conclusions
+§f59b11f This ruling is about whether the tax assessment was right. It did not decide whether the Medical Service Act or the Pharmaceutical Affairs Act was broken. Criminal proceedings run separately.
+§fcd5859 Under the dual-punishment rule introduced in 2010, doctors who receive rebates are punished as well as those who give them. Recipients face up to three years in prison or a fine of up to KRW 30m, and license suspension.
+§2817781 Dividends have actually been prosecuted as rebates. In August 2025 the Seoul Western District Prosecutors' Office indicted a wholesaler that set up a shell company, gave shares to the family of a general hospital's chair and passed about KRW 5bn through dividends and other payments: KRW 3.4bn as dividends and about KRW 1.6bn as fake salaries, corporate cards and the like.
+§9b16e2e The difference between the two cases is the substance of the company and the flow of money. The Western District case involved a shell set up to pay rebates, plus bid rigging. This company does real business with more than 400 customers, and over half its profit came from sources unrelated to shareholders.
+§5434c14 The Pharmaceutical Affairs Act bars a wholesaler effectively controlled by a hospital founder or related party from selling drugs to that hospital. The rule touches the hospital–distributor structure in EP.02. Here, families from 15 hospitals split the shares, so no single hospital controlled the company.
+§e23a56d <span class="hl">The tribunal did not say this structure is fine.</span> It means that tying client hospital directors' families in as shareholders was not proven to be a rebate by tax standards.
+§2a36189 The rebate debate never ends because, critics say, the cost ends up in drug prices and the insurance fund. Whether the same money is a dividend or a payment will have to be argued in numbers, case by case.
+§adb03ba Whether investigators or health authorities look separately at wholesalers owned by client hospital directors' families
+§0fc012e The court's ruling in the Seoul Western District shell-company dividend rebate case
+§7b70e6d Business and dividends at the similar company set up in 2023
+§13862f9 What standard the tax office applies to substance-over-form in similar cases
+§6176e0f Debate over amending the Pharmaceutical Affairs Act as big hospitals' drug supply concentrates in a few wholesalers
+§6d5cb9f For a dividend to be a rebate, the line 'paid because they prescribed' has to connect. Here, the line broke at the share count. Still, it was a tax ruling, not a clean bill of health.
+§5663c91 Is it a rebate if a doctor's family owns shares in a wholesaler the hospital buys from?
+§109c89e This Tax Tribunal ruling held that owning shares and receiving dividends is not enough on its own to call it a rebate. But it concerns the tax assessment only; whether the Medical Service Act or Pharmaceutical Affairs Act was broken is judged separately on the facts. Individual cases need legal advice.
+§3f1c7e9 Why did the Tax Tribunal decide the dividends were not rebates?
+§ad19107 Dividends were paid by share count regardless of prescriptions or sales, and 58% of revenue and gross profit came from ordinary customers not linked to shareholders. Dividends per KRW 100 of drug purchases ranged from KRW 4 to KRW 148 by hospital, so they were not proportional to prescriptions.
+§43a1061 What penalties do doctors face for accepting rebates?
+§908f006 Since the dual-punishment rule took effect in 2010, doctors who accept rebates can also be punished: up to three years in prison or a fine of up to KRW 30m, plus license suspension.
+§aa369c8 <b>Sources</b><br>Edaily, Choi Jeong-hee, "KRW 148 in dividends per KRW 100 of drugs: are doctors' family dividends rebates? [Tax, afterward]" (Nov 2026), and the Tax Tribunal ruling it reconstructs (2025-Seo-3143). According to the article, names and some amounts were not disclosed in the ruling · Medical Times, "Drug wholesaler caught paying KRW 5bn in rebates via 'shell company'" (Aug 19, 2025) · Medical Service Act Article 23-5; Pharmaceutical Affairs Act Article 47 (all in Korean)<br>This article is industry commentary based on public reports and rulings and is not a recommendation to buy or sell any company's shares, nor legal or tax advice.
+§1f72f79 First published 2026-11-14 · Last updated 2026-11-14. Errors are corrected here as soon as they are confirmed.
+§71a4bd1 <b>Terms in this article</b><a class="chip" href="../glossary.html#실질과세원칙">Substance over form</a><a class="chip" href="../glossary.html#소득금액변동통지">Income reclassification notice</a><a class="chip" href="../glossary.html#배당성향">Payout ratio</a><a class="chip" href="../glossary.html#리베이트 쌍벌제">Dual-punishment rebate rule</a><a class="chip" href="../glossary.html#특수관계인">Related party</a>
+§958dda6 <a href="ep05-aesthetic-doctors.html"><small>Previous</small>Doctors leaving the operating room: from plastic surgery to dermatology, and the on-call crunch</a><span class="r"><small>Next</small>EP.07 Doctors who left the hospital · Coming soon</span>
+§64a7edc Dividends paid to hospital directors' families ranged from KRW 4 to KRW 148 per KRW 100 of drugs the hospital bought, and 58% of the company's revenue and gross profit came from ordinary customers
+§830521a Two Charts · All episodes · Mednomics
+§479f528 Korean healthcare business, read by a doctor. Each episode sums up public news and filings, then adds what looks different from the patient-chart side.
+§6dd82b4 <a href="../">Home</a> / <span>Series</span>
+§aeca92d About the series
+§3d5d143 Starting the series: why two charts
+§2a6595d Doctors read patient charts; markets read stock charts. Why healthcare needs both read together.
+§7cfcfef Every episode of Two Charts: purchasing intermediaries, hospital foundations and drugmakers, MBK's healthcare investments, obesity drugs and knees.
+§545a764 PROLOGUE Starting the series: why two charts · Mednomics
+§d547254 Two Charts · PROLOGUE · <span class="tag">About the series</span> · <time datetime="2026-10-30">Oct 31, 2026</time> · 2 min read
+§dd8aa9a Patient charts and stock charts are more alike than you might think. Both are records of the past used to judge what comes next.
+§d7e5a96 <a href="../">Home</a> / <a href="../series/">Series</a> / <span>Starting the series: why two charts</span>
+§b5ecc36 A few notes to start the series.
+§57512c3 <i></i>The patient chart
+§7722d24 A doctor's day starts with reading charts.
+§114f9b6 Yesterday's vital signs, last week's lab results, a surgical record from months ago: they decide what to do today.
+§71b1f02 No doctor judges from a single number. The same value means different things depending on the course the patient has followed.
+§8f90726 <i></i>The stock chart
+§54360b2 People who read stock charts do something similar, weaving past prices, earnings and filings together to gauge what lies ahead.
+§b0f3ef3 Yet in healthcare, the two charts rarely meet.
+§f03ef18 Investors read news of drug approvals, device clearances and hospital deals as numbers.
+§d34b900 But how fast a drug is prescribed in the clinic, or how an instrument is judged in the operating room, rarely makes the news.
+§6219305 Doctors know the front line better than anyone but tend not to notice the money flows it stands on.
+§8ddcb42 They seldom ask how the supplies they use every day arrive, or who owns the company that makes the drugs they prescribe.
+§2d9ec43 <i></i>Two charts
+§7102f4a <span class="hl">Read only one chart and you see only half.</span>
+§1ed861b This series tries to lay the two charts side by side.
+§664d6f6 Each episode sums up public news and filings and adds what looks different from the patient-chart side.
+§6d68c51 Some principles too. I use public sources only. I do not use undisclosed information heard from anyone.
+§9e6f441 I do not tell you to buy or sell any stock. If I gain an interest in a company I cover, I say so. I do not write anything that could identify a patient.
+§2555fdb For investors, I want to show the front line behind the numbers; for people in medicine, the money behind the front line. The first episode is about purchasing intermediaries, the channel hospitals buy through.
+§e559513 First published 2026-10-30 · Last updated 2026-11-03. Errors are corrected here as soon as they are confirmed.
+§1e8a71d <span><small>Previous</small>This is the first post</span><a class="r" href="ep01-gannapsa.html"><small>Next</small>The purchasing-intermediary ban: hospitals' hidden supply channel</a>
+§3ebd91c Start here: where to begin · Mednomics
+§8f24786 Start here
+§c2cf73d Read these five in order and the story runs in one line, from how hospitals buy supplies to private equity and obesity drugs.
+§77aeb90 <a href="series/prologue.html"><b>Starting the series: why two charts</b><span>Why this series is called 'Two Charts'.</span></a>
+§796b340 <a href="series/ep01-gannapsa.html"><b>The purchasing-intermediary ban: hospitals' hidden supply channel</b><span>The channel hospitals buy through and why it is changing. Where the series begins.</span></a>
+§d103517 <a href="series/ep02-samchundang.html"><b>How a hospital grew a drugmaker: Sungsim Hospital and Samchundang Pharm</b><span>How a hospital foundation grew a drugmaker, and the share price boom and bust.</span></a>
+§97f849c <a href="series/ep03-mbk-healthcare.html"><b>Why private equity bought drug distribution and dental implants</b><span>The formula of capital buying healthcare from outside the hospital.</span></a>
+§559ac71 <a href="series/ep04-glp1-knee.html"><b>The obesity drug three-way race and the economics of knees: Wegovy, Mounjaro, efpeglenatide</b><span>An obesity drug market visible in numbers and a knee market still in hypothesis.</span></a>
+§b5c4c58 If the terms are unfamiliar, start with the <a href="glossary.html">glossary</a>; to see the numbers on one page, try the <a href="trackers/">trackers</a>.
+§51c1724 A reading order for first-time visitors. Read five posts in this order and hospital supply, pharma, capital and obesity drugs connect in one line.
+§e2040bc Capital &amp; M&amp;A: collected posts · Mednomics
+§4566d30 Capital &amp; M&amp;A
+§cab205a How private equity and conglomerates buy and sell healthcare.
+§5a96e8e <a href="../">Home</a> / <span>Capital &amp; M&amp;A</span>
+§8225ddc <b>Terms</b><a class="chip" href="../glossary.html#유상감자">Paid capital reduction</a><a class="chip" href="../glossary.html#인수금융">Acquisition financing</a><a class="chip" href="../glossary.html#볼트온">Bolt-on</a><a class="chip" href="../glossary.html#공개매수">Tender offer</a><a class="chip" href="../glossary.html#간납사">Purchasing intermediary</a>
+§6792826 <b>Trackers</b><a class="chip" href="../trackers/gannapsa-ma.html">Purchasing-intermediary M&amp;A tracker</a><a class="chip" href="../trackers/mbk-healthcare.html">MBK healthcare deals tracker</a>
+§1a60251 Capital &amp; M&amp;A: how private equity and conglomerates buy and sell healthcare.
+§99d8733 Capital &amp; M&amp;A: collected posts · Mednomics
+§7d3ae41 Doctors &amp; the care market: collected posts · Mednomics
+§f70c08b Doctors &amp; the care market
+§d2dc83b Doctors' career paths, clinic openings and where money moves in the care market.
+§752c580 <a href="../">Home</a> / <span>Doctors &amp; the care market</span>
+§7c3ac3d <b>Terms</b><a class="chip" href="../glossary.html#비급여">Uninsured care</a><a class="chip" href="../glossary.html#프티 성형">'Petite' cosmetic procedures</a>
+§0b26203 <b>Trackers</b><a class="chip" href="../trackers/aesthetic-market.html">Aesthetic clinic tracker</a>
+§6c3c0aa Doctors &amp; the care market: doctors' career paths, clinic openings and where money moves in the care market.
+§2ae2d7e Drugs &amp; bio: collected posts · Mednomics
+§f336eb2 Numbers and hypotheses on obesity drugs, oral insulin and other drug and biotech markets.
+§d66c598 <a href="../">Home</a> / <span>Drugs &amp; bio</span>
+§7a99643 <b>Terms</b><a class="chip" href="../glossary.html#관리급여">Managed coverage</a><a class="chip" href="../glossary.html#급여 등재">Reimbursement listing</a><a class="chip" href="../glossary.html#WOMAC">WOMAC</a><a class="chip" href="../glossary.html#비급여">Uninsured care</a>
+§9b7c2d2 <b>Trackers</b><a class="chip" href="../trackers/glp1-korea.html">Obesity drug market tracker</a>
+§c6be414 Drugs &amp; bio: numbers and hypotheses on obesity drugs, oral insulin and other drug and biotech markets.
+§7775a57 Hospitals &amp; supply: collected posts · Mednomics
+§1f9da0a Hospitals &amp; supply
+§a4bca3a How hospitals buy supplies and use drugs: purchasing intermediaries, hospital foundations, drugmakers.
+§31748f0 <a href="../">Home</a> / <span>Hospitals &amp; supply</span>
+§9fb3938 <b>Terms</b><a class="chip" href="../glossary.html#실질과세원칙">Substance over form</a><a class="chip" href="../glossary.html#리베이트 쌍벌제">Dual-punishment rebate rule</a><a class="chip" href="../glossary.html#캡티브 마켓">Captive market</a><a class="chip" href="../glossary.html#특수관계인">Related party</a><a class="chip" href="../glossary.html#불성실공시법인">Unfaithful disclosure designation</a><a class="chip" href="../glossary.html#기술이전·마일스톤">Licensing and milestones</a><a class="chip" href="../glossary.html#간납사">Purchasing intermediary</a><a class="chip" href="../glossary.html#GPO">GPO</a>
+§16143f9 <b>Trackers</b><a class="chip" href="../trackers/gannapsa-ma.html">Purchasing-intermediary M&amp;A tracker</a>
+§8911618 Hospitals &amp; supply: how hospitals buy supplies and use drugs: purchasing intermediaries, hospital foundations, drugmakers.
+§b5219de Aesthetic clinic tracker · Mednomics
+§9fd6a17 Aesthetic clinic tracker
+§58b9b58 Number of plastic surgery and dermatology–urology clinics in Apgujeong and Sinsa and change in average monthly revenue (July 2026, year on year). Last updated 2026-11-03.
+§c364cac <a href="../">Home</a> / <a href="../trackers/">Trackers</a> / <span>Aesthetic clinic tracker</span>
+§fc1955c Area / specialty
+§49c9bb9 Clinics
+§c4664ef Avg. monthly revenue
+§a161023 Revenue vs last year
+§993c28c Apgujeong plastic surgery
+§c1dba6b 88 (-4.3%)
+§fe6caec KRW 149.8m
+§bf841ee Apgujeong dermatology &amp; urology
+§2f30054 80 (+6.7%)
+§3350531 KRW 222.27m
+§9d43ae7 Sinsa plastic surgery
+§2b7ebe0 157 (0%)
+§7aff98e KRW 195.75m
+§f9b004a Sinsa dermatology &amp; urology
+§592c199 93 (+8.1%)
+§2528397 KRW 302.03m
+§934ccc1 Source: Small Enterprise and Market Service data (as reported by Hankyung, Nov 3, 2026). Figures are clinic revenue, not doctors' income.
+§6c26814 Foreign patients last year: dermatology 1.313m (62.9%), plastic surgery 233,000 (11.2%) (Ministry of Health and Welfare).
+§ae4a630 Number of plastic surgery and dermatology–urology clinics in Apgujeong and Sinsa and change in average monthly revenue (July 2026, year on year).
+§9838395 Trackers
+§4d0a9d1 Purchasing-intermediary M&amp;A tracker · Mednomics
+§6bccfd6 Purchasing-intermediary M&amp;A tracker
+§1cf8983 University hospital purchasing-intermediary stake deals in one table. Hospital, buyer, timing and status are updated. Last updated 2026-11-03.
+§d6885c9 <a href="../">Home</a> / <a href="../trackers/">Trackers</a> / <span>Purchasing-intermediary M&amp;A tracker</span>
+§0e64819 Hospital / intermediary
+§8838dd2 Buyer / seller
+§116538e Timing
+§2926977 Status
+§2dfa01f Severance Hospital / Avison Care
+§38856ff Ezmedicom side (controlled by Daewoong Pharmaceutical's owner family)
+§47aeceb Deal reported
+§d0084f7 Catholic Medical Center / two intermediaries
+§676b650 Serveone (private-equity owned)
+§3f6dce4 Asan Medical Center / Medigood Partners
+§9548f9c 51% stake sale under way
+§7890caf In progress
+§e9c11d0 Samsung Medical Center / Care Camp
+§ac4e588 Geo-Young affiliate
+§61c7b41 Existing structure
+§d16ad68 Sources: the references collected in EP.01 and EP.03. New deals are added to this table once confirmed.
+§c252766 The law takes effect on Dec 31, 2027. The key is how well the enforcement decree and the health ministry's audits stop workaround deals.
+§c068340 University hospital purchasing-intermediary stake deals in one table. Hospital, buyer, timing and status are updated.
+§a69be5e Purchasing-intermediary M&amp;A tracker · Mednomics
+§b4ebb94 Obesity drug market tracker · Mednomics
+§164bfb4 Obesity drug market tracker
+§ead2b4e Korean market figures and dates for Wegovy, Mounjaro and efpeglenatide, with quarterly sales from IQVIA data. Last updated 2026-11-03.
+§e085246 <a href="../">Home</a> / <a href="../trackers/">Trackers</a> / <span>Obesity drug market tracker</span>
+§bc17694 Quarter
+§0804a23 Wegovy (KRW 100m)
+§f56d939 Mounjaro (KRW 100m)
+§75cffa4 Note
+§7eb8384 Mounjaro about 3.7×
+§8fe6102 IQVIA data. Earlier quarters are revised slightly between reports; the latest reports are used. Updated when Q3 data come out.
+§cfce541 Timeline: Wegovy launch Oct 2024, Mounjaro Aug 2025, efpeglenatide approval Oct 7, 2026 and supply Oct 29, Wegovy coverage application Oct 12, managed-coverage review mentioned at the parliamentary audit Oct 28.
+§2644e67 Korean market figures and dates for Wegovy, Mounjaro and efpeglenatide, with quarterly sales from IQVIA data.
+§f66fe62 Trackers: healthcare in numbers · Mednomics
+§d44493f The numbers from our articles, collected in tables. When news is confirmed, these tables are updated first.
+§0b38dcc MBK healthcare deals tracker
+§755161c Healthcare companies bought by MBK Partners (Medit, Osstem Implant, Geo-Young, Alinamin Pharmaceutical): timing and deal size.
+§4289001 Trackers in table form: purchasing-intermediary M&amp;A, MBK's healthcare deals and the obesity drug market.
+§67bfd30 MBK healthcare deals tracker · Mednomics
+§77a1824 Healthcare companies bought by MBK Partners (Medit, Osstem Implant, Geo-Young, Alinamin Pharmaceutical): timing and deal size. Last updated 2026-11-03.
+§19d27c5 <a href="../">Home</a> / <a href="../trackers/">Trackers</a> / <span>MBK healthcare deals tracker</span>
+§ea12922 Company
+§9849936 Sector
+§7d66e97 Size (reported)
+§c377648 Medit
+§ad1101e Intraoral scanners
+§9d187f1 Signed Dec 2022
+§96920ae 99.5% stake, about KRW 2.4tn
+§6a5bc39 Osstem Implant
+§d43ed50 No. 1 in implants
+§fc94aea 2023 (delisted in August)
+§2597b0f About KRW 2.5tn, with UCK
+§f28e7b0 Geo-Young
+§dda5d94 No. 1 drug distributor
+§2f85480 71.25% of the holding company, KRW 1.95tn
+§36b02f6 Alinamin Pharmaceutical
+§2d181b8 Japanese OTC drugs
+§59450ef JPY 350bn (about KRW 2.9tn)
+§65596ac Geo-Young 2025 consolidated: revenue KRW 5.35tn, operating profit KRW 103.6bn (operating margin under 2%).
+§53fb35c Geo-Young holding company: KRW 274.6bn paid capital reduction in July 2024; debt ratio 506% → 1,600% (reported).

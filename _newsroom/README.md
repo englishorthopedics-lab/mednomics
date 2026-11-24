@@ -4,8 +4,8 @@
 
 ## 매일 하는 일
 1. `data/YYYY-MM-DD.json` 을 하나 만든다 (기존 파일을 복사해 고치면 됨).
-2. 저장소 루트에서 `python3 _newsroom/build.py` 실행.
-3. 바뀐 파일을 올린다: `news/`, `index.html`, `sitemap.xml`, `search-index.json`, `assets/og/news-날짜.png`.
+2. 저장소 루트에서 `python3 _app/build.py` 실행(`_newsroom/build.py`도 같음). 영어판까지 내려면 `_en` 필드를 함께 채운다.
+3. 바뀐 파일을 올린다: `news/`, `en/news/`, `index.html`, `en/index.html`, `sitemap.xml`, `search-index.json`, `en/search-index.json`, `sw.js`, `assets/og/news-날짜*.png`. 자세한 내용은 `_app/README.md`.
 
 Claude에게 "오늘 의료 뉴스 만들어 줘"라고 하면 1~2번을 대신 하고 올릴 파일만 묶어 준다.
 
