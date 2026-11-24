@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>검색 · Mednomics</title>
 <meta name="description" content="Mednomics 사이트 검색">
 <meta name="robots" content="noindex">
@@ -21,7 +21,7 @@
 <meta name="twitter:title" content="검색 · Mednomics">
 <meta name="twitter:description" content="Mednomics 사이트 검색">
 <meta name="twitter:image" content="https://mednomics.co.kr/assets/og-default.png">
-<meta name="theme-color" content="#07090c">
+<meta name="theme-color" content="#07090c"><!--APP:HEAD--><link rel="manifest" href="manifest.webmanifest"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Mednomics"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><link rel="alternate" hreflang="ko" href="https://mednomics.co.kr/search.html"><link rel="alternate" hreflang="en" href="https://mednomics.co.kr/en/search.html"><link rel="alternate" hreflang="x-default" href="https://mednomics.co.kr/search.html"><!--/APP:HEAD-->
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="assets/logo-512.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
@@ -34,16 +34,18 @@
   <a class="logo" href="./" aria-label="Mednomics 홈"><i></i><b>MEDNOMICS</b></a>
   <nav class="menu" aria-label="주 메뉴">
     <a href="news/">뉴스</a>
+    <a href="insight/">인사이트</a>
     <a href="series/">연재</a>
-    <a href="board.html">이슈 보드</a>
     <a href="trackers/">트래커</a>
+    <a href="links/">링크</a>
     <a href="glossary.html">용어사전</a>
     <a href="about.html">필자</a>
     <button class="sbtn" type="button" id="open-search" aria-label="검색">검색</button>
+    <a class="lang" href="en/search.html" hreflang="en" lang="en" aria-label="English">EN</a>
   </nav>
 </div></header>
-<div class="search" id="search" hidden role="dialog" aria-label="사이트 검색">
-  <div class="sbox"><input id="q" type="search" placeholder="간납사, 위고비, MBK ..." autocomplete="off"><button type="button" id="close-search" aria-label="닫기">닫기</button>
+<div class="search" id="search" hidden role="dialog" aria-label="검색">
+  <div class="sbox"><input id="q" type="search" placeholder="간납사, 위고비, 특사경 ..." autocomplete="off"><button type="button" id="close-search" aria-label="닫기">닫기</button>
   <ul id="results"></ul></div>
 </div>
 <main id="main">
@@ -53,12 +55,23 @@
 </main>
 <footer><div class="in">
   <span class="fl">MEDNOMICS · 두 개의 차트</span>
-  <nav class="fnav"><a href="start.html">처음 오셨다면</a><a href="news/">뉴스</a><a href="series/">연재</a><a href="board.html">이슈 보드</a><a href="trackers/">트래커</a><a href="glossary.html">용어사전</a><a href="about.html">필자 소개</a><a href="rss.xml">RSS</a></nav>
+  <nav class="fnav"><a href="start.html">처음 오셨다면</a><a href="news/">뉴스</a><a href="insight/">인사이트</a><a href="series/">연재</a><a href="board.html">이슈 보드</a><a href="trackers/">트래커</a><a href="links/">링크</a><a href="glossary.html">용어사전</a><a href="about.html">필자 소개</a><a href="/rss.xml">RSS</a></nav>
   <p>Mednomics의 글은 공개된 자료를 바탕으로 한 산업 해설이며, 특정 종목의 매수나 매도를 권하지 않습니다. 투자 판단과 그 결과의 책임은 투자자 본인에게 있습니다. 개별 환자의 진료를 대신하지도 않습니다.</p>
   <p>이 사이트의 글과 그림의 저작권은 닥터조단에게 있으며, 무단 복제와 재배포를 금합니다. 인용할 때는 출처(mednomics.co.kr)를 밝혀 주세요.</p>
 </div></footer>
+<!--APP:TAB-->
+<nav class="tabbar" aria-label="빠른 이동"><a href="./"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11.5 12 5l8 6.5V20a1 1 0 0 1-1 1h-4.5v-6h-5v6H5a1 1 0 0 1-1-1z"/></svg><span>오늘</span></a><a href="news/"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M8 9h8M8 13h8M8 17h5"/></svg><span>뉴스</span></a><a href="insight/"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19h16"/><path d="M6 15l4-5 3 3 5-7"/></svg><span>인사이트</span></a><a href="series/"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v15H7.5A2.5 2.5 0 0 0 5 20.5z"/><path d="M5 20.5A2.5 2.5 0 0 0 7.5 23H19"/></svg><span>연재</span></a><button type="button" id="more-open" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5"/></svg><span>더보기</span></button></nav>
+<div class="sheet" id="more-sheet" hidden role="dialog" aria-label="더보기"><div class="sheet-in">
+  <div class="sheet-links"><a href="board.html">이슈 보드</a><a href="trackers/">트래커</a><a href="insight/industry.html">산업 지도</a><a href="links/">링크</a><a href="glossary.html">용어사전</a><a href="saved.html">저장한 글</a><a href="about.html">필자 소개</a><a href="start.html">처음 오셨다면</a></div>
+  <div class="sheet-row"><a class="sheet-lang" href="en/search.html" lang="en">English</a><button type="button" class="sheet-install" id="install-app" hidden>앱으로 설치</button></div>
+  <p class="sheet-ios" id="install-ios" hidden>iPhone은 Safari 공유 버튼 → '홈 화면에 추가'를 누르세요.</p>
+  <button type="button" class="sheet-close" id="more-close">닫기</button>
+</div></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<!--/APP:TAB-->
 <div class="print-block">인쇄할 수 없습니다.</div>
 <script src="protect.js"></script>
 <script src="assets/search.js" defer></script>
+<script src="assets/app.js" defer></script>
 </body>
 </html>

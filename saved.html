@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>저장한 글 · Mednomics</title>
+<meta name="description" content="저장 버튼을 누른 연재 글과 뉴스가 이 기기의 브라우저에 모입니다.">
+<meta name="robots" content="noindex">
+<meta name="author" content="닥터조단">
+<link rel="canonical" href="https://mednomics.co.kr/saved.html">
+<link rel="alternate" type="application/rss+xml" title="Mednomics" href="https://mednomics.co.kr/news/feed.xml">
+<meta property="og:site_name" content="Mednomics">
+<meta property="og:locale" content="ko_KR">
+<meta property="og:title" content="저장한 글 · Mednomics">
+<meta property="og:description" content="저장 버튼을 누른 연재 글과 뉴스가 이 기기의 브라우저에 모입니다.">
+<meta property="og:url" content="https://mednomics.co.kr/saved.html">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://mednomics.co.kr/assets/og-default.png">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="저장한 글 · Mednomics">
+<meta name="twitter:description" content="저장 버튼을 누른 연재 글과 뉴스가 이 기기의 브라우저에 모입니다.">
+<meta name="twitter:image" content="https://mednomics.co.kr/assets/og-default.png">
+<meta name="theme-color" content="#07090c"><!--APP:HEAD--><link rel="manifest" href="manifest.webmanifest"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Mednomics"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><link rel="alternate" hreflang="ko" href="https://mednomics.co.kr/saved.html"><link rel="alternate" hreflang="en" href="https://mednomics.co.kr/en/saved.html"><link rel="alternate" hreflang="x-default" href="https://mednomics.co.kr/saved.html"><!--/APP:HEAD-->
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+<a class="skip" href="#main">본문으로 건너뛰기</a>
+<header class="bar"><div class="in">
+  <a class="logo" href="./" aria-label="Mednomics 홈"><i></i><b>MEDNOMICS</b></a>
+  <nav class="menu" aria-label="주 메뉴">
+    <a href="news/">뉴스</a>
+    <a href="insight/">인사이트</a>
+    <a href="series/">연재</a>
+    <a href="trackers/">트래커</a>
+    <a href="links/">링크</a>
+    <a href="glossary.html">용어사전</a>
+    <a href="about.html">필자</a>
+    <button class="sbtn" type="button" id="open-search" aria-label="검색">검색</button>
+    <a class="lang" href="en/saved.html" hreflang="en" lang="en" aria-label="English">EN</a>
+  </nav>
+</div></header>
+<div class="search" id="search" hidden role="dialog" aria-label="검색">
+  <div class="sbox"><input id="q" type="search" placeholder="간납사, 위고비, 특사경 ..." autocomplete="off"><button type="button" id="close-search" aria-label="닫기">닫기</button>
+  <ul id="results"></ul></div>
+</div>
+<main id="main">
+
+<section class="page-head"><div class="in">
+  <p class="label" style="color:#8a9099">Saved</p>
+  <h1>저장한 글</h1>
+  <p>저장 버튼을 누른 연재 글과 뉴스가 이 기기의 브라우저에 모입니다.</p>
+</div></section>
+<section class="sec">
+  <ol class="posts" id="saved-list" data-empty="아직 저장한 글이 없습니다. 연재 글 위쪽이나 뉴스 소식 아래의 저장 버튼을 눌러 보세요."></ol>
+  <p class="more"><button type="button" class="sh mini" id="saved-clear">모두 지우기</button></p>
+</section>
+<section class="sec"><div class="sub-box" id="subscribe">
+    <p>매일 의료 뉴스는 뉴스 RSS로, 연재 새 글은 네이버 블로그로 먼저 알려 드립니다. 이메일 뉴스레터는 준비 중입니다.</p>
+    <div class="btnrow"><a class="btn" href="https://blog.naver.com/jordanam">네이버 블로그 이웃 추가</a><a class="btn" href="/news/feed.xml">뉴스 RSS</a></div>
+    <small>EMAIL NEWSLETTER · COMING SOON</small>
+  </div></section>
+</main>
+<footer><div class="in">
+  <span class="fl">MEDNOMICS · 두 개의 차트</span>
+  <nav class="fnav"><a href="start.html">처음 오셨다면</a><a href="news/">뉴스</a><a href="insight/">인사이트</a><a href="series/">연재</a><a href="board.html">이슈 보드</a><a href="trackers/">트래커</a><a href="links/">링크</a><a href="glossary.html">용어사전</a><a href="about.html">필자 소개</a><a href="/rss.xml">RSS</a></nav>
+  <p>Mednomics의 글은 공개된 자료를 바탕으로 한 산업 해설이며, 특정 종목의 매수나 매도를 권하지 않습니다. 투자 판단과 그 결과의 책임은 투자자 본인에게 있습니다. 개별 환자의 진료를 대신하지도 않습니다.</p>
+  <p>이 사이트의 글과 그림의 저작권은 닥터조단에게 있으며, 무단 복제와 재배포를 금합니다. 인용할 때는 출처(mednomics.co.kr)를 밝혀 주세요. 뉴스 요약에 인용한 각 기사의 저작권은 해당 언론사에 있습니다.</p>
+</div></footer>
+<!--APP:TAB-->
+<nav class="tabbar" aria-label="빠른 이동"><a href="./"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11.5 12 5l8 6.5V20a1 1 0 0 1-1 1h-4.5v-6h-5v6H5a1 1 0 0 1-1-1z"/></svg><span>오늘</span></a><a href="news/"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M8 9h8M8 13h8M8 17h5"/></svg><span>뉴스</span></a><a href="insight/"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19h16"/><path d="M6 15l4-5 3 3 5-7"/></svg><span>인사이트</span></a><a href="series/"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v15H7.5A2.5 2.5 0 0 0 5 20.5z"/><path d="M5 20.5A2.5 2.5 0 0 0 7.5 23H19"/></svg><span>연재</span></a><button type="button" id="more-open" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5"/></svg><span>더보기</span></button></nav>
+<div class="sheet" id="more-sheet" hidden role="dialog" aria-label="더보기"><div class="sheet-in">
+  <div class="sheet-links"><a href="board.html">이슈 보드</a><a href="trackers/">트래커</a><a href="insight/industry.html">산업 지도</a><a href="links/">링크</a><a href="glossary.html">용어사전</a><a href="saved.html">저장한 글</a><a href="about.html">필자 소개</a><a href="start.html">처음 오셨다면</a></div>
+  <div class="sheet-row"><a class="sheet-lang" href="en/saved.html" lang="en">English</a><button type="button" class="sheet-install" id="install-app" hidden>앱으로 설치</button></div>
+  <p class="sheet-ios" id="install-ios" hidden>iPhone은 Safari 공유 버튼 → '홈 화면에 추가'를 누르세요.</p>
+  <button type="button" class="sheet-close" id="more-close">닫기</button>
+</div></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<!--/APP:TAB-->
+<div class="print-block">인쇄할 수 없습니다.</div>
+<script src="protect.js"></script>
+<script src="assets/search.js" defer></script>
+<script src="assets/app.js" defer></script>
+</body>
+</html>
